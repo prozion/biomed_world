@@ -1,0 +1,13 @@
+tissues
+	Epithelial_tissue
+	Connective_tissue
+		connective_tissue_proper
+			Loose_connective_tissue
+			Dense_connective_tissue
+				Dense_regular_connective_tissue
+				Dense_irregular_connective_tissue
+		special_connective_tisue
+		; TODO: exactly subclassificate Blood in this section
+	Muscular_tissue
+	Neural_tissue
+	
