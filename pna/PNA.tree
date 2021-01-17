@@ -1,4 +1,5 @@
 pna include-namespace:/med_world/books.tree d:"Parisiana Nomenclatura Anatomica in Tabtree format" src:Международная_анатомическая_номенклатура
 	abbreviations ref-file:abbreviations.tree
 	termini_generalis ref-file:termini_generales.tree 
-	osteologia
+	osteologia ref-file:osteologia.tree
+	arthrologia ref-file:arthrologia.tree

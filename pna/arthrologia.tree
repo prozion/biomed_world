@@ -1,0 +1,39 @@
+arthrologia ru:артрология d:"учение о соединении костей"
+	articulationes_fubrosae ru:фиброзные_соединения
+		syndesmosis ru:синдесмоз
+			Lig_pterygospinale
+			Lig_stylohyoideum
+			Ligg_interspinalia
+			Ligg_flava
+			Liigg_intertransversaria
+			Ligg_supraspinalia
+			Lig_nuchae
+			Syndesmosis_articulatio_radioulnaris
+				Membrana_interossea_antebrachii
+				Chorda_obliqua
+			Syndesmosis_articulatio_tibiofibu;aris
+				Membrana_interossea_cruris
+				Lig_tibiofibulare_anterius
+				Lig_tibiofibulare_posterius
+		sutura ru:шов
+			Sut_serrata
+			Sut_squamosa
+			Sut_plana
+			Schyndilesis
+			Sutt_cranii
+				Sut_coronalis
+				Sut_sagittalis
+				Sut_lamboidea
+				Sut_occipitomastoidea
+				Sut_sphenofrontalis
+				Sut_spheno-ethmoidalis
+				Sut_spenosquamosa
+				Sut_sphenoparietalis
+				Sut_squamosa
+				Sut_frontalis syn:Sutura_metipica
+				Sut_parietomastoidea syn:Sut_squamosomastoidea
+				Sut_frontonasalis
+				Sut_fronto-ethmoidalis
+				Sut_frontomaxillaris
+				Sut_frontolacrimalis
+				

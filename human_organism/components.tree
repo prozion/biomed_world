@@ -1,0 +1,256 @@
+components
+	bones
+		spine ru:позвоночник
+			Cervical_vertebrae ru:Шейные_позвонки la:Vertebrae_cervicalis
+				C1 ref:CI
+				C2 ref:CII
+				C3 ref:CIII
+				C4 ref:CIV
+				C5 ref:CV
+				C6 ref:CVI
+				C7 ref:CVII
+			Thoracic_vertebrae ru:Грудные_позвонки
+				T1 ref:TI
+				T2 ref:TII
+				T3 ref:TIII
+				T4 ref:TIV
+				T5 ref:TV
+				T6 ref:TVI
+				T7 ref:TVII
+				T8 ref:TVIII
+				T9 ref:TIX
+				T10 ref:TX
+				T11 ref:TXI
+				T12 ref:TXII
+			Lumbar_vertebrae ru:Поясничные_позвонки
+				L1 ref:LI
+				L2 ref:LII
+				L3 ref:LIII
+				L4 ref:LIV
+				L5 ref:LV
+			Os_sacrum en:Sacrum ru:Крестец
+			Os_coccygus ru:Копчик
+		chest
+			Hyoid_bone ru:Подъязычная_кость
+			Sternum ru:Грудина
+			ribs ru:ребра
+				First_rib vars:left,right
+				Second_rib vars:left,right
+				Third_rib vars:left,right
+				Fourth_rib vars:left,right
+				Fifth_rib vars:left,right
+				Sixth_rib vars:left,right
+				Seventh_rib vars:left,right
+				Eigth_rib vars:left,right
+				Ninth_rib vars:left,right
+				Tenth_rib vars:left,right
+				Eleventh_rib vars:left,right
+				Twelfth_rib vars:left,right
+				Cervical_rib optional:<t> vars:left,right
+		skull
+			cranial_bones ru:черепные_кости
+				Os_occcipitale en:Occipital_bone ru:Затылочная_кость
+				Os_parietale en:Parietal_bone ru:Теменная_кость vars:left,right
+				Os_frontale en:Frontal_bone ru:Лобная_кость
+				Os_temporale en:Temporal_bone ru:Височная_кость vars:left,right
+				Os_sphenoidale en:Sphenoid_bone ru:Клиновидная_кость
+				Os_ethmoidale en:Ethmoid_bone ru:Решетчатая_кость
+			facial_bones ru:лицевые_кости
+				Os_nasale en:Nasal_bone ru:Носовая_кость vars:left,right
+				Maxilla ru:Верхняя_челюсть vars:left,right
+			 	Os_lacrimale en:Lacrimal_bone ru:Слёзная_кость vars:left,right
+				Os_zygomaticum en:Zygomatic_bone syn:Cheek_bone ru:Скуловая_кость vars:left,right
+				Os_palatinum en:Palatine_bone ru:Нёбная_кость vars:left,right
+				Concha_nasalis_inferior en:Inferior_nasal_concha ru:Нижняя_носовая_раковина vars:left,right
+				Vomer ru:Сошник
+				Mandibula en:Mandible ru:Нижняя_челюсть
+			middle_ears ru:среднее_ухо
+				Malleus ru:Молоточек vars:left,right
+				Incus ru:Наковальня vars:left,right
+				Stapes ru:Стремя vars:left,right
+		arm
+			upper_arm_bones
+				Humerus ru:Плечевая_кость vars:left,right
+				pectoral_girdle ru:плечевой_пояс
+					Scapula ru:Лопатка vars:left,right
+						Acromion ru:Акромион
+						Coracoid ru:Воронья_кость
+					Clavicle ru:Ключица vars:left,right
+			lower_arm_bones
+				Ulna ru:Локтевая_кость vars:left,right
+				Radius ru:Лучевая_кость vars:left,right
+			hand
+				Hand_sesamoid_bone_1 vars:left,right
+				Hand_sesamoid_bone_2 vars:left,right
+				carpals
+					Scaphoid_bone ru:Ладьевидная_кость vars:left,right
+					Lunate_bone ru:Полулунная_кость vars:left,right
+					Triquetral_bone ru:Трёхгранная_кость vars:left,right
+					Pisiform_bone ru:Гороховидная_кость vars:left,right
+					Trapezium ru:Кость-трапеция vars:left,right
+					Trapezoid_bone ru:Трапециевидная_кость vars:left,right
+					Capitate_bone ru:Головчатая_кость vars:left,right
+					Hamate_bone ru:Крючковидная_кость vars:left,right
+				metacarpals ru:пястные_кости
+					Metacarpal_1 d:"before thumb finger" vars:left,right
+					Metacarpal_2 vars:left,right
+					Metacarpal_3 vars:left,right
+					Metacarpal_4 vars:left,right
+					Metacarpal_5 vars:left,right
+				phalanges_of_the_hand ru:фаланги
+					proximal_phalanges
+						Proximal_phalanx_1 vars:left,right
+						Proximal_phalanx_2 vars:left,right
+						Proximal_phalanx_3 vars:left,right
+						Proximal_phalanx_4 vars:left,right
+						Proximal_phalanx_5 vars:left,right
+					intermediate_phalanges
+						Intermediate_phalanx_2 vars:left,right
+						Intermediate_phalanx_3 vars:left,right
+						Intermediate_phalanx_4 vars:left,right
+						Intermediate_phalanx_5 vars:left,right
+					distal_phalanges
+						Distal_phalanx_1 vars:left,right
+						Distal_phalanx_2 vars:left,right
+						Distal_phalanx_3 vars:left,right
+						Distal_phalanx_4 vars:left,right
+						Distal_phalanx_5 vars:left,right
+		pelvis ru:таз
+			Ilium ru:Подвздошная_кость
+				Crista_iliaca ru:Подвздошный_гребень
+				Ala_ossis_ilii ru:Крыло_подвздошной_кости
+			Ischium ru:Седалищная_кость 
+				Spina_ischiadica ru:Седалищная_ость
+				Ramus_ossis_ischii ru:Ветвь_седалищной_кости
+				Tuber_ischiadicum ru:Седалищный_бугор
+			Pubis ru:Лобковая_кость
+				Ramus_inferior_ossis_pubis ru:Нижняя_ветвь_лобковой_кости
+				Ramus_superior_ossis_pubis ru:Верхняя_ветвь_лобковой_кости
+				Corpus_ossis_pubis ru:Тело_лобковой_кости
+			pelvis_holes
+				Foramen_obturatum ru:Запирательное_отверстие
+			pelvis_cavities
+				Acetabulum ru:Вертлужная_впадина
+		leg
+			Femur ru:Бедренная_кость vars:left,right
+				upper_part
+					Femoral_head
+						Intertrochanteric_crest
+					Femoral_neck
+					Lesser_trochanter ; msc-ins:Illacus,Psoas_major
+					Greater_trochanter ; msc-ins:Gluteus_medius,Gluteus_minimus,Piriformis,Obturator_internus
+				body
+					Gluteal_tuberosity ; msc-ins:Gluteus_maximus
+				lower_part
+					Lateral_condyle
+			Patella vars:left,right
+			Tibia vars:left,right
+			Fibula vars:left,right
+			foot
+				tarsals syn:tarsus
+					Calcaneus vars:left,right
+					Talus
+					Naviculer_bone
+					Medial_cuneiform_bone
+					Intermediate_cuneiform_bone
+					Lateral_cuneiform_bone
+					Cuboid_bone
+				metatarsals
+					Metatarsal_1 vars:left,right
+					Metatarsal_2 vars:left,right
+					Metatarsal_3 vars:left,right
+					Metatarsal_4 vars:left,right
+					Metatarsal_5 vars:left,right
+				phalanges_of_the_foot
+					proximal_foot_phalanges
+						Proximal_foot_phalanx_1 vars:left,right
+						Proximal_foot_phalanx_2 vars:left,right
+						Proximal_foot_phalanx_3 vars:left,right
+						Proximal_foot_phalanx_4 vars:left,right
+						Proximal_foot_phalanx_5 vars:left,right
+					inremediate_foot_phalanges
+						Intermediate_foot_phalanx_2 vars:left,right
+						Intermediate_foot_phalanx_3 vars:left,right
+						Intermediate_foot_phalanx_4 vars:left,right
+						Intermediate_foot_phalanx_5 vars:left,right
+					distal_foot_phalanges
+						Distal_foot_phalanx_1 vars:left,right
+						Distal_foot_phalanx_2 vars:left,right
+						Distal_foot_phalanx_3 vars:left,right
+						Distal_foot_phalanx_4 vars:left,right
+						Distal_foot_phalanx_5 vars:left,right
+	muscles
+		Adductor_brevis
+		Adductor_longus
+		Adductor_magnus
+		Articularis_genu
+		Biceps_femoris
+		Gastrocnemius ru:Икроножная_мышца
+		Gemellus_inferior
+		Gemellus_superior
+		Gluteus_maximus
+		Gluteus_medius
+		Gluteus_minimus
+		Iliacus
+		Obturatur_internus
+		Obturatur_externus
+		Pectineus
+		Piriformis
+		Plantaris origin:Lateral_condyle ru:Подошвенная_мышца
+		Popliteus
+		Psoas_major
+		Quadratus_femoris
+		Tibialis_anterior ru:Передняя_большеберцовая_мышца
+		Vastus_intermedius
+		Vastus_lateralis
+		Vastus_medialis
+		
+;
+	; Arteries
+	; Bone_marrow
+	; Brain
+	; Gallbladder
+	; Heart
+	; Intestines
+	; Kidneys
+	; Larynx ru:Гортань
+	; Liver
+	; Lymph_nodes
+	; Muscles
+	; Pancreas
+	; Pharynx ru:Глотка
+	; Skeleton
+	; Spleen
+	; Stomach
+	; Urinary_bladder
+	; Veins
+	; Lungs
+	
+	; joints ru:суставы
+	; 	Sternoclavicular_joint ru:Грудино-ключичный_сустав
+	; 	Temporomandibular_joint ru:Височно-нижнечелюстной_сустав
+	; 	Sacroliliac_joint ru:Крестцово-подвздошный_сустав
+	; 	Hip_joint ru:
+	; 	joints_of_hand
+	; 		Radiocarpal_joint ru:Лучезапястный_сустав src:Radius dest:carpals
+	; 		Midcarpal_joint src:Scaphoid_bone,Lunate_bone,Triquetral_bone dest:Trapezium_bone,Trapezoid_bone,Capitate_bone,Hamate_bone
+	; 		Carpometacarpal_joint
+	; 		intercarpal_joints
+	; 		intermetacarpal_joints
+	; 		interphalangial_joints
+	; 		metacarpophalangeal_joints
+	; 			knuckles
+	; 	wrist_joints
+	; 		Distal_radioulnar_joint ru:Дистальный_лучелоктевой_сустав
+	; 	elbow_joints
+	; 		Humeroulnar_joint ru:Плечелоктевой_сустав la:Articulatio_humeroulnaris
+	; 		Humeroradial_joint ru:Плечелучевой_сустав la:Articulagtio_humeroradialis
+	; 		Proximal_radioulnar_joint ru:Проксимальный_лучелоктевой_сустав
+	; 	axillary_articulations
+	; 		Glenohumeral_joint syn:Shoulder_joint ru:Плечевой_сустав
+	; 		Acromioclavicular_joint ru:Акромиально-ключичный_сустав src:Acromion dest:Clavicle
+	; 	vertebral_articulations
+	; 		Facet_joint ru:Дугоотростчатый_сустав vars:1..24 vars:left,right
+	; ligaments ru:связки
+	; tendons ru:cухожилия
+	

@@ -454,7 +454,7 @@ osteologia ru:остеология d:"учение о костях"
 							Apex ru:Верхушка
 							Facies_articularis_anterior ru:Передняя_суставная_поверхность
 							Facies_articularis_posterior ru:Задняя_суставная_поверхность
-					CII
+					CIII
 					CIV
 					CV
 					CVI
@@ -623,7 +623,276 @@ osteologia ru:остеология d:"учение о костях"
 							Epicondylus_medialis
 								Sul_n_ulnaris
 							Epicondylus_lateralis
-					Radius ru:Лучевая_кость ; TODO
+					Radius ru:Лучевая_кость
+						Caput_radii
+							Fovea_articularis
+							Circumferentia_articularis
+						Collum_radii
+						Corpus_radii
+							Tuberositas_radii
+							Facies_anterior
+							Facies_posterior
+							Facies_lateralis
+							Margo_interosseus
+							Margo_anterior
+							Margo_posterior
+						Prcoessus_styloideus
+						Tuberculum_dorsale
+						Incisura_ulnaris
+						Facies_articularis_carpea
+					Ulna ru:Локтевая_кость
+						Olecranon
+						Processus_coronoideus
+							Tuberositas_ulnae
+						Incisura_trochlearis
+						Incisura_radialis
+						Corpus_ulnae
+							Facies_interior
+							Facies_posterior
+							Facies_medialis
+							Margo_interosseus
+							Margo_anterior
+							Margo_posterior
+							Crista_m_supinatoris
+						Caput_ulnae
+							Circumferentia_articularis
+							Processus_styloideus
+					carpus ru:запястье
+						ossa_carpi syn:ossa_carpalia ru:кости_запястья
+							Os_centrale ru:Центральная_кость
+							Os_scaphoideum ru:Ладьевидная_кость
+								Tuberculum_ossis_scaphoidei ru:Бугорок_ладьевидной_кости
+							Os_lunatum ru:Полулунная_кость
+							Os_triquetrum ru:Трехгранная_кость
+							Os_pisiforme ru:Гороховидная_кость
+							Os_trapezium ru:Кость-трапеция
+								Tuberculum_ossis_trapezii ru:Бугорок_кости-трапеции
+							Os_trapezoideum ru:Трапециевидная_кость
+							Os_capitatum ru:Головчатая_кость
+							Os_hamatum ru:Крючковидная_кость
+								Hamulus_ossis_hamati ru:Крючок_крючковидной_кости
+							Sul_capri ru:Борозда_запястья
+					metacarpus ru:пясть
+						ossa_metacarpi
+							Os_metacarpale_I
+							Os_metacarpale_II
+							Os_metacarpale_III
+								Processus_styloideus
+							Os_metacarpale_IV
+							Os_metacarpale_V
+							Basis
+							Corpus
+							Caput
+					digiti ru:пальцы ; где названия пальцев?
+						phalanges ru:фаланги
+							Phalanx_proximalis
+							Phalanx_media
+							Phalanx_distalis
+								Tuberostitas_phalangis_distalis
+							Basis_phalangis
+							Corpus_phalangis
+							Caput_phalangis
+					ossa_sesamoidea ru:сесамовидные_кости
+			ossa_membri_inferioris ru:кости_нижней_конечности
+				cingulum_membri_inferioris ru:пояс_нижней_конечности
+					Os_coxae ru:Тазовая_кость
+						Acetabulum
+							Limbus_acelabuli
+							Fossa_acetabuli
+							Incisura_acetabuli
+							Facies_lunata
+						For_obturatum
+					Os_ilium ru:Подвздошная_кость
+						Corpus_ossis_illi
+							Sulcus_supra-acetabularis
+						Ala_ossis_illi
+							Linea_arcuata
+							Crista_iliaca
+								Labium_externum
+									Tuberculum_iliacum
+								Linea_intermedia
+								Labium_internum
+								Spina_iliaca_anterior_superior
+								Spina_iliaca_anterior_inferior
+								Spina_iliaca_posterior_superior
+								Spina_iliaca_posterior_inferior
+							Fossa_iliaca
+							Facies_glutea
+								Linea_glutea_anterior
+								Linea_glutea_posterior
+								Linea_glutea_inferior
+							Facies_sacropelvina
+								Facies_auricularis
+								Tuberositas_iliaca
+					Os_ischii ru:Седалищная_кость
+						Corpus_ossis_ischii
+						R_ossis_ischii
+							Tuber_ischiadicum
+						Spina_ischiadica
+						Incisura_ischiadica_major
+						Incisura_ischiadica_major
+					Os_pubis ru:Лобковая_кость
+						Corpus_ossis_pubis
+							Tuberculum_pubicum
+							Facies_synphysialis
+							Crista_pubica
+							R_superior_ossis_pubis
+								Eminentia_iliopubica
+								Pecten_ossis_pubis
+								Crista_obluratoria
+								Sul_obluratoris
+									Tuberculum_obturatorium_anterius
+									Tuberculum_obturatorium_posterius
+							R_inferior_ossis_pubis
+					Pelvis ru:Таз
+						Arcus_pubis
+							Angulus_subpubicus
+						Pelvis_major
+						Pelvis_minor
+						Linea_terminalis
+						Apertura_pelvis_superior
+						Apertura_pelvis_inferior
+						Axis_pelvis
+						Conjugata
+						Diameter_transversa
+						Diameter_obliqua
+						Inclinatio_pelvis
+				skeleton_membri_inferioris_liberi ru:скелет_свободной_нижней_конечности
+					Os_femoris syn:Femur ru:Бедренная_кость
+						Caput_ossis_femoris ru:Головка_бедренной_кости
+							Fovea_capitis_ossis_femoris ru:Ямка_головки_бедренной_кости
+						Collum_ossis_femoris ru:Шейка_бедренной_кости
+							Trochanter_major ru:Большой_вертел
+								Fossa_trochanterica ru:Ветельная_ямка
+							Trochanter_minor ru:Малвй_вертел
+							Trochanter_tertius ru:Третий_вертел
+						Linea_intertrochanterica ru:Межвертельная_линия
+						Crista_intertrochanterica ru:Межвертельный_гребень
+						Corpus_ossis_femoris ru:Тело_бедренной_кости
+							Linea_aspera ru:Шероховатая_линия
+								Labium_laterale ru:Латеральная_губа
+								Labium_mediale ru:Медиальная_губа
+							Linea_pectinea ru:Гребенчатая_линия
+							Tuberositas_glutea ru:Ягодичная_бугристость
+							Facies_poplitea ru:Подколенная_поверхность
+						Condylus_medialis ru:Медиальный_мыщелок
+							Epicondylus_medialis ru:Медиальный_надмыщелок
+							Tuberculum_adductorium ru:Приводящий_бугорок
+						Condylus_lateralis ru:Медиальный_мыщелок
+							Epicondylus_lateralis ru:Латеральный_надмыщелок
+						Facies_patellaris ru:Надколенниковая_поверхность
+						Fossa_intercondylaris ru:Межмыщелковая_ямка
+						Linea_intercondylaris ru:Межмыщелковая_линия
+					Patella ru:Надколенник
+						Basis_patelae
+						Apex_patelae
+						Facies_articularis
+						Facies_anterior
+					Tibia ru:Большеберцовая_кость
+						Condylus_medialis
+						Condylus_lateralis
+							Facies_articularis_superior
+							Area_intercondylaris_anterior
+							Area_intercondylaris_posterior
+							Eminentia_intercondylaris
+								Taberculum_intercondylare_mediale
+								Taberculum_intercondylare_laterale
+							Corpus_tibiae
+								Tuberositas_tibiae
+							Facies_medialis
+							Facies_posterior
+								Linea_m_solei
+							Facies_lateralis
+							Margo_medialis
+							Margo_anterior
+							Margo_interosseus
+						Malleolus_medialis
+							Sul_malleolaris
+							Facies_articularis_malleoli
+						Incisura_fibularis
+							Facies_articularis_inferior
+					Fibula ru:Малоберцовая_кость
+						Caput_fibulae
+							Facies_articularis_capitis_fibulae
+							Apex_capitis_fibulae
+						Collum_fibulae
+						Corpus_fibulae
+							Facies_lateralis
+							Facies_medialis
+							Facies_posterior
+								Crista_medialis
+							Margo_anterior
+							Margo_interossus
+							Margo_posterior
+							Malleolus_lateralis
+								Facies_articularis_malleoli
+								Fossa_malleoli_lateralis
+					Tarsus ru:Предплюсна
+						ossa_tarsi ru:кости_предплюсны
+							Talus ru:Таранная_кость
+								Caput_tali
+									Facies_articularis_navicularis
+								Collum_tali
+								Corpus_tali
+								Trochlea_tali
+									Facies_superior
+									Facies_malleolaris_medialis
+									Facies_malleolaris_lateralis
+										Processus_lateralis_tali
+								Facies_articularis_calcanea_posterior
+									Sul_tali
+								Facies_articularis_calcanea_media
+								Facies_articularis_calcanea_anterior
+								Processus_posterior_tali
+									Sul_tendinis_m_flexoris_hallucis_longi ru:Борозда_сухожилия_длинного_сгибателя_большого_пальца_стопы
+									Tuberculum_mediale
+									Tuberculum_laterale
+								Os_trigonum ru:Треугольная_кость
+							Calcaneus ru:Пяточная_кость
+								Tuber_calcanei
+									Prcoessus_medialis_tuberis_calcanei
+									Prcoessus_lateralis_tuberis_calcanei
+								Tuberculum_calcanei
+								Sustentaculum_tali ru:Опора_таранной_кости
+									Sul_tendinis_m_flexoris_hallucis_longi
+									Sul_calcanei
+									Sinus_tarsi
+									Facies_articularis_talaris_media
+									Facies_articularis_talaris_posterior
+									Sul_tendinis_mm_peronei_longi syn:Sul_tendinis_mm_fibularium_longi
+									Trochlea_poronealis syn:Trochlea_fibularis
+								Facies_articularis_cuboidea
+							Os_naviculare ru:Ладьевидная_кость
+								Tuberositas_ossis_navicularis
+							Os_cuneiforme_mediale ru:Медиальная_клиновидная_кость
+							Os_cuneiforme_intermedium ru:Промежуточная_клиновидная_кость
+							Os_cuneiforme_laterale ru:Латеральная_клиновидная_кость
+							Os_cuboideum ru:Кубовидная_кость
+								Sul_tendinis_m_m_peronei_longi
+								Tuberositas_ossis_cuboidei
+								Prcoessus_calcaneus
+					Metatarsus ru:Плюсная
+						ossi_metatarsi ru:плюсневые_кости
+							Metatarsalia_I
+							Metatarsalia_II
+							Metatarsalia_III
+							Metatarsalia_IV
+							Metatarsalia_V
+							Basis
+							Corpus
+							Caput
+						Tuberositas_ossis_metatarsalis_primi_I ru:Бугристость_I_плюсневой_кости
+						Tuberositas_ossis_metatarsalis_quanti_V ru:Бугристость_V_плюсневой_кости
+					digiti ru:пальцы
+						phalanges ru:фаланги
+							Phalanx_proximalis
+							Phalanx_media
+							Phalanx_distalis
+								Tuberositas_phalangis_distalis
+							Basis_phalangis
+							Corpus_phalangis
+							Caput_phalangis
+							ossa_sesamoidea ru:сесамовидные_кости
 	os_longum ru:длинная_кость
 	os_breve ru:короткая_кость
 	os_planum ru:плоская_кость
