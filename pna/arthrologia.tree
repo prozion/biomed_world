@@ -136,7 +136,7 @@ arthrologia ru:артрология d:"Учение о соединении ко
 			articulationes_vertebrales ru:суставы_позвоночника,позвоночные_суставы
 				articulationes_zygapophysiales ru:дугоотростчатые_суставы
 				Articulatio_lumbosacralis ru:Пояснично-крестцовый_сустав
-					Lig_iliolumbale ru:
+					Lig_iliolumbale ru:Подвздошно-поясничная_связка
 				Articulatio_sacrococcygea ru:Крестцово-копчиковый_сустав
 					Lig_sacrococcygeum_dorsale_superficiale ru:Поверхностная_дорсальная_крестцово-копчиковая_связка
 					Lig_sacrococcygeum_dorsale_profundum ru:Глубоая_дорсальная_крестцово-копчиковая_связка
@@ -214,115 +214,122 @@ arthrologia ru:артрология d:"Учение о соединении ко
 							Lig_pisometacarpeum ru:Гороховидно-пястная_связка
 						Canalis_carpi ru:Канал_запястья
 					articulationes_carpometacarpeae ru:запястно-пястные_суставы
-						ligg_carpometacarpea_dorsalia
-						ligg_carpometacarpea_palmaria
-						Articulatio_carpometacarpea_pollicis
-					articulationes_intermetacarpeae
-						ligg_metacarpea_dorsalia
-						ligg_metacarpea_palmaria
-						ligg_metacarpea_interossea
-						ligg_metacarpea_metacarpi
-					articulationes_metacarpophalangeae
-						ligg_collateralia
-						ligg_palmaria
-						Lig_metacarpeum_transversum_profundum
-					articulationes_interphalangeae_manus
-						ligg_collateralia
-						ligg_palmaria
-			articulationes_cinguli_membri_inferioris
-				Symphysis_pubica
-				Mambrana_obturatoria
-				Canalis_obturatorius
-				Lig_sacrotuberale
-					Processus_falciformis
-				Lig_sacrospinale
-				For_ischiadicum_majus
-				For_ischiadicum_minus
-				articulatio_sacroiliaca
-					ligg_sacroiliaca_ventralia
-					ligg_sacroiliaca_interossea
-					ligg_sacroiliaca_dorsalia
+						ligg_carpometacarpea_dorsalia ru:тыльные_запястно-пястные_связки
+						ligg_carpometacarpea_palmaria ru:ладонные_запястно-пястные_связки
+						Articulatio_carpometacarpea_pollicis ru:Запястно-пястный_сустав_большого_пальца_кисти
+					articulationes_intermetacarpeae ru:межпястные_суставы
+						ligg_metacarpea_dorsalia ru:тыльные_пястные_связки
+						ligg_metacarpea_palmaria ru:ладонные_пястные_связки
+						ligg_metacarpea_interossea ru:иежкостные_пястные_связки
+						ligg_metacarpea_metacarpi ru:межкостные_промежутки_пястья
+					articulationes_metacarpophalangeae ru:пястно-фаланговые_суставы
+						ligg_collateralia ru:коллатеральные_связки
+						ligg_palmaria ru:ладонные_связки
+						Lig_metacarpeum_transversum_profundum ru:Глубокая_поперечная_пястная_связка
+					articulationes_interphalangeae_manus ru:межфаланговые_суставы_кисти
+						ligg_collateralia ru:коллатеральные_связки
+						ligg_palmaria ru:ладонные_связки
+			articulationes_cinguli_membri_inferioris ru:суставы_пояса_нижней_конечности
+				Symphysis_pubica ru:Лобковый_симфиз
+				Membrana_obturatoria ru:Запирательная_мембрана
+				Canalis_obturatorius ru:Запирательный_канал
+				Lig_sacrotuberale ru:Крестцово-бугорная_связка
+					Processus_falciformis ru:Серповидный_отросток
+				Lig_sacrospinale ru:Крестцово-остистая_связка
+				For_ischiadicum_majus ru:Большое_седалищное_отверстие
+				For_ischiadicum_minus ru:Малое_седалищное_отверстие
+				articulatio_sacroiliaca ru:крестцово-подвздошный_сустав
+					ligg_sacroiliaca_ventralia ru:Вентральные_крестцово-подвздошные_связки
+					ligg_sacroiliaca_interossea ru:Межкостные_крестцово-подвздошные_связки
+					ligg_sacroiliaca_dorsalia ru:Дорсальные_крестцово-подвздошные_связки
 			articulationes_membri_inferioris_liberi ru:суставы_свободной_нижней_конечности
-				Articulatio_coxae
-					Zona_orbicularis
-					Lig_iliofemorale
-					Lig_ischiofemorale
-					Lig_pubofemorale
-					Labrum_acetabulare
-						Lig_trabsversum_acetabuli
-					Lig_capitis_femoris
-				Articulatio_genus
-					Meniscus_lateralis
-					Lig_meniscofemorale_anterius
-					Meniscus_medialis
-					Lig_transversum_genus
-					ligg_cruciata_genus
-						Lig_cruciatum_anterius
-						Lig_cruciatum_posterius
-					Plica_synovialis_infrapatellaris
-						Plicae_alares
-					Lig_collaterale_fibulare
-					Lig_collaterale_tibiale
-					Lig_popliteum_obliquum
-					Lig_popliteum_arcuatum
-					Lig_patellae
-					Retinaculum_patellae_mediale
-					Retinaculum_patellae_laterale
-					Corpus_adiposum_infrapatellare
-				Articulare_tibiofibularis
-					Lig_mediale syn:Lig_deltoideum
-						Pars_tibionavicularis
-						Pars_tibiocalcanea
-						Pars_tibiotalaris_anterior
-						Pars_tibiotalaris_posterior
-						Lig_talofibulare_anterius
-						Lig_talofibulare_posterius
-						Lig_calcaneofibulare
-						articulationes_intertarseae
-				articulationes_pedis
-					Articulatio_talocalcaneo-navicularis
-						Articulatio_subtalaris
-						Lig_talocalcaneum_mediale
-					Articulatio_tarsi_transversa
-					Articulatio_calcaneocuboidea
-					Articulatio_cuneonavicularis
-					ligg_tarsi_interossea
-						Lig_talocalcaneum_interossum
-						Lig_cuneocuboideum_interossum
-						Lig_intercuneiformia_interossum
-					ligg_tarsi_dorsalia
-						Lig_talonaviculare
-					ligg_intercuneiformia_dorsalia
-						Lig_cuneocuboideum_dorsale
-						Lig_cuboideonaviculare_dorsale
-						Lig_bifurcatum
-							Lig_calcaneonaviculare
-							Lig_calcaneocuboideum
-					ligg_cuneonavicularia_dorsalia
-					ligg_tarsi_plantaria
-						Lig_plantare_longum
-						Lig_calcaneocuboideum_plantare
-						Lig_calcaneonaviculare_plantare
-						ligg_cuneonavicularia_plantaria
-						Lig_cuboideonaviculare_plantare
-						ligg_intercuneiformia_plantaria
-						Lig_cuneocuboideum_plantare
-				articualtiones_tarsometatarseae
-					ligg_tarsometatarsea_dorsalia
-					ligg_tarsometatarsea_plantaria
-					ligg_cuneometatarsea_interossea
-				articulationes_intermetatarseae
-					ligg_metatarsea_interossea
-					ligg_metatarsea_dorsalia
-					ligg_metatarsea_plantaria
-					Spatia_interossea_metatarsi
-				articulationes_metatarsophalangeae
-					ligg_collateralia
-					ligg_plantaria
-					Lig_metatarseum_transversum_profundum
-				articulationes_interphalangeae_pedis
-					ligg_collateralia
-					ligg_plantaria
+				Articulatio_coxae ru:Тазобедренный_сустав
+					Zona_orbicularis ru:Круговая_зона
+					Lig_iliofemorale ru:Подвздошно-бедренная_связка
+					Lig_ischiofemorale ru:Седалищно-бедренная_связка
+					Lig_pubofemorale ru:Лобково-бедренная_связкв
+					Labrum_acetabulare ru:Вертлужная_губа
+						Lig_trabsversum_acetabuli ru:Поперечная_связка_вертлужной_впадины
+					Lig_capitis_femoris ru:Связка_головки_бедренной_кости
+				Articulatio_genus ru:Коленный_сустав
+					Meniscus_lateralis ru:Латеральный_мениск
+					Lig_meniscofemorale_anterius ru:Передняя_мениско-бедренная_связка
+					Lig_meniscofemorale_posterius ru:Задняя_мениско-бедренная_связка
+					Meniscus_medialis ru:Медиальный_мениск
+					Lig_transversum_genus ru:Поперечная_связка_колена
+					ligg_cruciata_genus ru:крестообразные_связки_колена
+						Lig_cruciatum_anterius ru:Передняя_крестообразная_связка
+						Lig_cruciatum_posterius ru:Задняя_крестообразная_связка
+					Plica_synovialis_infrapatellaris ru:Поднадколенниковая_синовиальная_складка
+						plicae_alares ru:крыловидные_складки
+					Lig_collaterale_fibulare ru:Малоберцовая_колатеральная_связка
+					Lig_collaterale_tibiale ru:Большеберцовая_колатеральная_связка
+					Lig_popliteum_obliquum ru:Косая_подколенная_связка
+					Lig_popliteum_arcuatum ru:Дугообразная_подколенная_связка
+					Lig_patellae ru:Связка_надколенника
+					Retinaculum_patellae_mediale ru:Медиальная_поддерживающая_связка
+					Retinaculum_patellae_laterale ru:Латеральная_поддерживающая_связка
+					Corpus_adiposum_infrapatellare ru:Поднадколенниковое_жировое_тело
+				Articulatio_tibiofibularis ru:Межберцовый_сустав
+					Lig_capitis_fibulae_anterius ru:Передняя_связка_головки_малоберцовой_кости
+					Lig_capitis_fibulae_posterius ru:Задняя_связка_головки_малоберцовой_кости
+					Membrana_interossea_cruris ru:Межкостная_перепонка_голени
+					Syndesmosis_tibiofibularis ru:Межберцовый_синдесмоз
+				Articulare_tibiofibularis ru:Голеностопный_сустав
+					Lig_mediale syn:Lig_deltoideum ru:Медиальная_связка,Дельтовидная_связка
+						Pars_tibionavicularis ru:Большеберцово-ладьевидная_часть
+						Pars_tibiocalcanea ru:Большеберцово-пяточная_часть
+						Pars_tibiotalaris_anterior ru:Передняя_большеберцово-таранная_часть
+						Pars_tibiotalaris_posterior ru:Задняя_большеберцово-таранная_часть
+						Lig_talofibulare_anterius ru:Передняя_таранно-малоберцовая_связка
+						Lig_talofibulare_posterius ru:Задняя_таранно-малоберцовая_связка
+						Lig_calcaneofibulare ru:Пяточно-малоберцовая_связка
+						articulationes_intertarseae ru:Межпредплюсневые_суставы
+				articulationes_pedis ru:суставы_стопы
+					Articulatio_talocalcaneo-navicularis ru:Таранно-пяточно-ладьевидный_сустав
+						Articulatio_subtalaris ru:Подтаранный_сустав
+						Lig_talocalcaneum_laterale ru:Латеральная_таранно-пяточная_связка
+						Lig_talocalcaneum_mediale ru:Медиальная_таранно-пяточная_связка
+					Articulatio_tarsi_transversa ru:Поперечный_сустав_предплюсны
+					Articulatio_calcaneocuboidea ru:Пяточно-кубовидный_сустав
+					Articulatio_cuneonavicularis ru:Клиноладьевидный_сустав
+					ligg_tarsi_interossea ru:межкостные_связки_предплюсны
+						Lig_talocalcaneum_interossum ru:Межкостная_таранно-пяточная_связка
+						Lig_cuneocuboideum_interossum ru:Межкостная_клинокубовидная_связка
+						ligg_intercuneiformia_interossum ru:межкостные_межклиновидные_связки
+					ligg_tarsi_dorsalia ru:Тыльные_связки_предплюсны
+						Lig_talonaviculare ru:Таранно-ладьевидная_связка
+					ligg_intercuneiformia_dorsalia ru:тыльные_межклиновидные_связки
+						Lig_cuneocuboideum_dorsale ru:Тыльная_клинокубовидная_связка
+						Lig_cuboideonaviculare_dorsale ru:Тыльная_кубовидно-ладьевидная_связка
+						Lig_bifurcatum ru:Раздвоенная_связка
+							Lig_calcaneonaviculare ru:Пяточно-ладьевидная_связка
+							Lig_calcaneocuboideum ru:Пяточно-кубовидная_связка
+					ligg_cuneonavicularia_dorsalia ru:тыльные_клиноладьевидные_связки
+					ligg_tarsi_plantaria ru:подошвенные_связки_предплюсны
+						Lig_plantare_longum ru:Длинная_подошвенная_связка
+						Lig_calcaneocuboideum_plantare ru:Подошвенная_пяточно-кубовидная_связка
+						Lig_calcaneonaviculare_plantare ru:Подошвенная_пяточно-ладьевидная_связка
+						ligg_cuneonavicularia_plantaria ru:подошвеные_клиноладьевидные_связки
+						Lig_cuboideonaviculare_plantare ru:Подошвенная_кубовидно-ладьевидная_связка
+						ligg_intercuneiformia_plantaria ru:подошвенные_межклиновидные_связки
+						Lig_cuneocuboideum_plantare ru:Подошвенная_клинокубовидная_связка
+				articualtiones_tarsometatarseae ru:предплюсне-плюсневые_суставы
+					ligg_tarsometatarsea_dorsalia ru:Тыльные_предплюсне-плюсневые_связки
+					ligg_tarsometatarsea_plantaria ru:Подошвенные_предплюсне-плюсневые_связки
+					ligg_cuneometatarsea_interossea ru:Межкостные_клиноплюсневые_связки
+				articulationes_intermetatarseae ru:межплюсневые_суставы
+					ligg_metatarsea_interossea ru:Межкостные_плюсневые_связки
+					ligg_metatarsea_dorsalia ru:Тыльные_плюсневые_связки
+					ligg_metatarsea_plantaria ru:Подошвенные_плюсневые_связки
+					spatia_interossea_metatarsi ru:межкостные_промежутки_плюсны
+				articulationes_metatarsophalangeae ru:плюснефаланговые_суставы
+					ligg_collateralia ru:коллатеральные_связки
+					ligg_plantaria ru:подошвенные_связки
+					Lig_metatarseum_transversum_profundum ru:Глубокая_поперечная_плюсневая_связка
+				articulationes_interphalangeae_pedis ru:межфаланговые_суставы
+					ligg_collateralia ru:коллатеральные_связки
+					ligg_plantaria ru:подошвенные_связки
 						
 						
 					
