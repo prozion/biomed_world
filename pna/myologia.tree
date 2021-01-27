@@ -109,493 +109,487 @@ myologia d:"Учение о мышцах"
 			M_longitudinalis_inferior ru:Нижняя_продольная_мышца
 			M_trabsversus_linguae ru:Поперечная_мышца_языка
 			M_verticalis_linguae ru:Вертикальная_мышца_языка
-		musculi_palati
-			M_levator_veli_palatini
-			M_tensor_veli_palatini
-			M_uvulae
-			M_palatoglossus
-			M_palatopharyngeus
-		musculi_colli
-			Platysma
-			M_splenius_cervicis
-			M_longus_colli
-			M_scalenus_anterior
-			M_scalenus_medius
-			M_scalenus_posterior
-			M_scalenus_minimus
-			M_sternocleidomastoideus
-		musculi_suprahyodei
-			M_digastricus
-				Venter_anterior
-				Venter_posterior
-			M_stylohyoideus
-			M_mylohyoideus
-			M_geniohyoideus
-		musculi_infrahyoidei
-			M_sternohyoideus
-			M_omohyoideus
-				Venter_superior
-				Venter_inferior
-			M_sternothyroideus
-			M_thyrohyoideus
-			M_levator_gl_thyroideae
-		fascia_cervicalis
-			Lam_superficialis
-			Lam_pretrachealis
-			Lam_prevertebralis
-			Vag_carotica
-		tunica_muscularis_pharyngis
-			M_constrictor_pharyngis_superior
-				Pars_pterygopharyngea
-				Pars_baccopharyngea
-				Pars_mylopharyngea
-				Pars_glossopharyngea
-			M_stylopharyngeus
-			M_salpingopharyngeus
-			M_constrictor_pharyngis_medius
-				Pars_chondropharyngea
-				Pars_ceratopharyngea
-			M_constrictor_pharyngis_inferior
-				Pars_thyropharyngea
-				Pars_cricopharyngea
-		musculi_laryngis
-			M_aryepiglotticus
-			M_crycothyroideus
-				Pars_recta
-				Pars_obliqua
-			M_cricoarytenoideus
-			M_ceratocricoideus
-			M_cricoarytenoideus_lateralis
-			M_vocalis
-			M_thyroepiglotticus
-			M_thyroarytenoideus
-			M_arytenoideus_obliquus
-			M_arytenoideus_transversus
-		musculi_dorsi
-			M_trapezius
-			M_tranversus_nuchae
-			M_latissimus_dorsi
-			M_rhomboideus_major
-			M_rhomboideus_minor
-			M_levator_scapulae
-			M_serratus_posterior_inferior
-			M_serratus_posterior_superior
-		musculi_erector_spinae
-			M_iliocostalis
-				M_iliocostalis_lumborum
-				M_iliocostalis_thoracis
-				M_iliocostalis_cervicis
-			M_longissimus
-				M_longissimus_thoracis
-				M_longissimus_cervicis
-				M_longissimus_capitis
-			M_spinalis
-				M_spinalis_thoracis
-				M_spinalis_cervicis
-				M_spinalis_capitis
-		Musculus_transversospinalis
-			M_semispinalis
-				M_semispinalis_thoracis
-				M_semispinalis_cervicis
-				M_semispinalis_capitis
-			mm_multifidi
-			mm_rotatores
-				mm_rotatores_cervicis
-				mm_rotatores_thoracis
-				mm_rotatores_lumborum
-		musculi_interspinales
-			mm_interspinales_cervicis
-			mm_interspinales_thoracis
-			mm_interspinales_lumborum
-			musculi_intertransversarii
-			mm_intertransversarii_laterales_lumborum
-			mm_intertransversarii_mediales_lumborum
-			mm_intertransversarii_thoracis
-			mm_intertransversarii_posteriores_cervicis
-				Pars_medialis
-				Pars_lateralis
-			mm_intertransversarii_anteriores_cervicis
-			Fascia_thoracolumbalis
-			Fascia_nuchae
-		musculi_thoracis syn:M_sternalis
-			M_pectoralis_major
-				Pars_clavicularis
-				Pars_sternocostalis
-				Pars_abdominalis
-			M_pectoralis_minor
-			M_subclavius
-			Fascia_pectoralis
-			Fascia_clavipectoralis
-			M_serratus_anterior
-			mm_levatores_costarum
-				mm_levatores_costarum_longi
-				mm_levatores_costarum_breves
-			mm_intercostales_externi
-			Membrana_intercostalis_interna
-			mm_intercostales_intimi
-			mm_subcostales
-			M_transversus_thoracis
-			Fascia_thoracica
-			Fascia_endothoracica
-		diaphragma
-			Pars_lumbalis
-				Crus_dextrum
-				Crus_sinistrum
-			Pars_costalis
-			Pars_sternalis
-			Hiatus_aorticus
-			Hiatus_esophageus syn:Hyatus_oesophageus
-			Cebtrum_tendineum
-			For_venae_cavae
-			Lig_arcuatum_mediale
-			Lig_arcuatum_laterale
-			Lig_arcuatum_medianum
-		musculi_abdominis
-			M_rectus_abdominis
-				Intersectiones_tendineae
-				Vag_m_recti_abdominis
-					Lam_anterior
-					Lam_posterior
-						Linea_arcuata
-			M_pyramidalis
-			M_obliquus_externus_abdominis
-				Lig_inguinale syn:Arcus_inguinalis
-					Lig_lacunare
-						Lig_pectineale
-					Lig_reflexum
-				Annulus_inguinalis_superficialis
-					Crus_mediale
-					Crus_laterale
-					fibrae_intercrurales
-			M_obliquus_internus_abdominis
-				M_cremaster
-			M_transversus_abdominis
-				Falx_inguinalis syn:Tendo_conjuctivus
-			Linea_alba
-				Annulus_umbilicalis
-				Adminiculum_lineae_albae
-			Lig_suspensorium_penis sex:male
-			Lig_suspensorium_clitoridis sex:female
-			Lig_fundiforme_penis sex:male
-			Trigonum_lumbale
-			Fascia_transversalis
-			Annulus_inguinalis_profundus
-			Canalis_inguinalis
-			Lig_interfoveolare
-			M_quadratus_lumborum
-		musculi_diaphragmatis_pelvis
-			M_levator_ani
-				M_pubococcygeus
-				M_levator_prostatae sex:male
-				M_levator_pubovaginalis sex:female
-				M_puborectalis
-				M_pubovaginalis
-				M_iliococcygeus
-				Arcus_tendineus_m_levatoris_ani
-			M_coccygeus
-			M_sacrococcygeus_ventralis
-			M_sacrococcygeus_dorsalis
-			M_sphincter_ani_externus
-				Pars_subcutanea
-				Pars_superficialis
-				Pars_profunda
-			Lig_anococcygeum
-			Fascia_pelvis
-				Fascia_pelvis_parietalis
-					Fascia_obturatoria
-				Fascia_pelvis_visceralis
-					Fascia_prostatae +sex:male
-						Septum_rectovesicale
-					Septum_rectovaginale sex:female
-			Fascia_diaphragmatis_pelvis_superior
-			Arcus_tendineus_fasciae_pelvis
-			Lig_puboprostaticum syn:Lig_pubovesicale sex:male
-			Fascia_diaphragmatis_pelvis_inferior
-		musculi_diaphragmatis_urogenitalis
-			Spatium_perinei_prfundum
-				M_transversus_perinei_profundus
-				M_sphincter_uretrae
-			Fascia_diaphragmatis_urogenitalis_superior
-			Fascia_diaphragmatis_urogenitalis_inferior
-			Membraba_perinei
-				Lig_transversum_perinei
-			Spatium_perinei_superficiale
-				M_transversus_perinei_superficialis
-				M_ischiocavernosus
-				M_bulbospongiosus
-			Fascia_perinei_superficialis
-			Fossa_ischiorectalis
-				Corpus_adiposum_fossae_ischiorectalis
-				Canalis_pudendalis
-			Spatium_retropubicum
-		musculi_membri_superioris
-			M_deltoideus
-			M_supraspinatus
-			M_infraspinatus
-			M_teres_minor
-			M_teres_major
-			M_subscapularis
-			M_biceps_brachii
-				Caput_longum
-					Vag_synovialis_intertubercularis
-				Caput_breve
-				Aponeurosis_m_bicipitis_brachii syn:Aponeurosis_bicipitalis
-			M_coracobrachialis
-			M_brachialis
-			M_triceps_brachii
-				Caput_longum
-				Caput_laterale
-				Caput_mediale
-			Reg_axillaris
-				aperturae_superior_et_inferior
-			M_anconeus
-			M_articularis_cubiti
-			M_pronator_teres
-				Caput_humerale
-				Caput_ulnare
-			M_flexor_carpi_radialis
-			M_palmaris_longus
-			M_flexor_carpi_ulnaris
-				Caput_humerale
-				Caput_ulnare
-			M_flexor_digitorum_superficialis
-				Caput_humeroulnare
-				Caput_radiale
-			M_flexor_digitorum_profundus
-			M_flexor_pollicis_longus
-			M_pronator_quadratus
-			M_brachioradialis
-			M_extensor_carpi_radialis_longus
-			M_extensor_carpi_radialis_brevis
-			M_extensor_digitorum
-				Conexus_intertendineus
-			M_extensor_digiti_minimi
-			M_extensor_carpi_ulnaris
-				Caput_humerale
-				Caput_ulnare
-			M_supinator
-			M_abductor_pollicis_longus
-			M_extensor_pollicis_brevis
-			M_extensor_pollicis_longus
-			M_extensor_indicis
-			M_palmaris_brevis
-			M_abductor_pollicis_brevis
-			M_flexor_pollicis_brevis
-				Caput_superficiale
-				Caput_profundum
-			M_opponens_pollicis
-			M_adductor_pollicis
-				Caput_obliquum
-				Caput_transversum
-			M_abductor_digiti_minimi
-			M_flexor_digiti_minimi_brevis
-			M_opponens_digiti_minimi
-			mm_lumbricales
-			mm_interossei_dorsales
-			mm_interossei_palmales
-			Fascia_axillaris
-			Fascia_deltoidea
-			Fascia_brachii
-			Septum_intermusculare_brachii_mediale
-			Septum_intermusculare_brachii_laterale
-			Fascia_antebrachii
-			Fascia_dorsalis_manus
-			Reinaculum_extensorum
-			Lig_metacarpeum_transversum_superficiale
-			Aponeurosis_palmaris
-				Fasciculi_transversi
-			Retinaculum_flexorum
-			Canalis_carpi
-			Chiasma_tendinum
-		musculi_membri_inferioris
-			M_iliopsoas
-				M_iliacus
-				M_psoas_major
-				M_psoas_minor
-			M_gluteus_maximus
-			M_gluteus_medius
-			M_gluteus_minimus
-			M_tensor_fasciae_latae
-			M_piriformis
-			M_obturatorius_internus
-			M_gemellus_superior
-			M_gemellus_inferior
-			M_quadratus_femoris
-			M_sartorius
-			M_quadriceps_femoris
-				M_rectus_femoris
-					Caput_rectum
-					Caput_reflexum
-				M_vastus_lateralis
-				M_vastus_intermediua
-				M_vastus_medialis
-			M_articularis_genus
-			M_pectineus
-			M_adductor_longus
-			M_adductor_brevis
-			M_adductor_magnus
-			M_gracilis
-			M_obturatorius_externus
-			M_biceps_femoris
-				Caput_longum
-				Caput_breve
-			M_semitendinosus
-			M_semimembranosus
-			M_tibialis_anterior
-			M_extensor_digitorum_longus
-			M_peroneus_tertius syn:M_fibularis_tertius
-			M_extensor_hallucis_longus
-			M_peroneus_longus syn:M_fibularis_longus
-			M_peroneus_brevis syn:M_fibularis_brevis
-			M_triceps_surae
-				M_gastrocnemius
-					Caput_laterale
-					Caput_mediale
-				M_soleus
-					Arcus_tendineus_m_solei
-				Tendo_calcaneus syn:Achillis
-			M_plantaris
-			M_popliteus
-			M_tibialis_posterior
-			M_flexor_digitorum_longus
-			M_flexor_hallucis_longus
-			M_extensor_hallucis_brevis
-			M_extensor_digitorum_brevis
-			M_abductor_hallucis
-				Caput_obliquum
-				Caput_transversum
-			M_abductor_digiti_minimi
-			M_flexor_digitorum_brevis
-			M_quadratus_plantae
-			M_flexor_acessorius
-			mm_lumbricales
-			mm_interossei_dorsales
-			mm_interossei_plantares
-			Fascia_lata
-				Tractus_iliotibialis
-			Septum_intermusculare_femoris_laterale
-			Septum_intermusculare_femoris_mediale
-			Canalis_abductorius
-			Hiatus_tendineus_abductorius
-			Fascia_iliaca
-			Lacuna_musculorum
-			Arcus_iliopectineus
-			Lacuna_vasorum
-			Trigonum_femorale
-			Canalis_femoralis
-			Annulus_femoralis
-			Septum_femorale
-			Hiatus_saphenus
-				Margo_falciformis
-					Cornu_superius
-					Cornu_inferius
-				Fascia_cribrosa
-			Fascia_cruris
-			Septum_intermusculare_anterius_cruris
-			Septum_intermusculare_posterius_cruris
-			Retinaculum_musculorum_extensorum_superius
-			Retinaculum_musculorum_flexorum
-			Retinaculum_musculorum_extensorum_inferius
-			Retinaculum_musculorum_peroneorum_superius syn:Retinaculum_musculorum_fibularium_superius
-			Retinaculum_musculorum_peroneorum_inferius syn:Retinaculum_musculorum_fibularium_inferius
-			Fascia_dorsalis_pedis
-			Aponeurosis_plantaris
-				Fasciculi_transversi
-			Lig_metatarseum_transversum_superficiale
-		bursae_et_vaginae_synoviales
-			B_synovialis_subcutanea
-			B_synovialis_submuscularis
-			B_synovialis_subfascialis
-			B_synovialis_subtendinea
-			Vag_synovialis_tendinis
-			B_m_tensoris_veli_palatini
-			B_subcutanea_prominentiae_laryngealis
-			B_infrahyoidea
-			B_retrohyoidea
-			B_subtendinea_m_trapezii
-			B_subcutanea_acromialis
-			B_subacromialis
-			B_subdeltoidea
-			B_m_coracobrachialis
-			B_subtendinea_m_subscapularis
-			B_subtendinea_m_teretis_majoris
-			B_subtendinea_m_latissimi_dorsi
-			B_subcutanea_olecrani
-			B_intratendinea_olecrani
-			B_subtendinea_m_tricipitis_brachii
-			B_bicipitoradialis
-			B_cubitalis_interossea
-			Vag_fibrosae_digitorum_manus
-				Pars_annularis_vaginae_fibrosae
-				Pars_cruciformis_vaginae_fibrosae
-			vagg_synoviales_digitorum_manus
-				Vincula_tendinum
-					Vinculum_longum
-					Vinculum_breve
-			Vag_tendinum_mm_abductoris_longi_et_extensoris_brevis_pollicis
-			Vag_tendinum_mm_extensorum_carpi_radialium
-			Vag_tendinis_m_extensoris_pollicis_longi
-			Vag_tendinis_m_extensoris_digitorum_et_extensoris_indicis
-			Vag_tendinis_m_extensoris_digiti_minimi
-			Vag_tendinis_m_extensoris_carpi_ulnaris
-			B_m_extensoris_carpi_radialis_brevis
-			Vag_synovialis_tendinis_m_flexoris_carpi_radialis
-			Vag_synovialis_communis_mm_flexorum
-			Vag_tendinis_m_flexoris_pollicis_longi
-			Vag_synovialis_tendinum_digitorum_manus
-			B_subcutanea_trochanterica
-			B_trochanterica_m_glutei_maximi
-			bb_trochantericae_m_glutei_minimi
-			B_trochanterica_m_glutei_minimi
-			B_m_piriformis
-			B_ischiadica_m_obturatorii_interni
-			B_subtendinea_m_obturatorii_interni
-			bb_intermusculares_gluteorum
-			B_ischiadica_m_glutei_maximi
-			B_iliopectinea
-			B_subtendinea_iliaca
-			B_m_bicipitis_femoris_superior
-			B_subcutanea_prepatellaris
-			B_subfascialis_prepatellaris
-			B_subtendinea_prepatellaris
-			B_suprapatellaris
-			B_subcutanea_infrapatellaris
-			B_infrapatellaris_profunda
-			B_subcutanea_tuberositatis_tibiao
-			bb_subtendineae_m_sartorii
-			B_anserina
-			B_subtendinea_m_bicipitis_femoris_inferior
-			Recessus_subpopliteus
-			B_subtendinea_m_gastrocnemii_lateralis
-			B_subtendinea_m_gastrocnemii_medialis
-			B_m_semimembranosi
-			B_subcutanea_malleoli_lateralis
-			B_subcutanea_malleoli_medialis
-			Vag_tendinis_m_tibialis_anterioris
-			Vag_tendinis_m_extensoris_hallucis_longi
-			Vag_tendinis_m_extensoris_digitorum_pedis_longi
-			Vag_synovialis_tendinis_m_tibialis_posterioris
-			Vag_synovialis_tendinis_m_flexoris_hallucis_longi
-			Vag_synovialis_mm_peroneorum_communis syn:Vag_synovialis_mm_fibularium_communis
-			B_subtendinea_m_tibialis_anterioris
-			B_subcutanea_calcanea
-			B_tendinis_calcanei
-			Vag_tendinis_m_peronei_longi_plantaris syn:Vag_tendinis_m_fibularis_longi_plantaris
-			vagg_synoviales_tendinum_digitorum_pedis
-			vagg_synoviales_digitorum_pedis
-				Vincula_tendinum
-			vagg_fibrosae_digitorum_pedis
-				Pars_annularis_vag_fibrosae
-				Pars_cruciformis_vag_fibrosae
-			
-			
-			
-			
-			
-			
-				
-			
-			
-			
-			
-				
+		musculi_palati ru:мышцы_нёба
+			M_levator_veli_palatini ru:Мышца_поднимающая_небную_занавеску
+			M_tensor_veli_palatini ru:Мышца_напрягающая_небную_занавеску
+			M_uvulae ru:Мышца_язычка
+			M_palatoglossus ru:Небно-язычная_мышца
+			M_palatopharyngeus ru:Небно-глоточная_мышца
+		musculi_colli ru:мышцы_шеи
+			Platysma ru:Подкожная_мышца_шеи
+			M_splenius_cervicis ru:Ременная_мышца_шеи
+			M_longus_colli ru:Длинная_мышца_шеи
+			M_scalenus_anterior ru:Передняя_лестничная_мышца
+			M_scalenus_medius ru:Средняя_лестничная_мышца
+			M_scalenus_posterior ru:Задняя_лестничная_мышца
+			M_scalenus_minimus ru:Наименьшая_лестничная_мышца
+			M_sternocleidomastoideus ru:Грудинщ-ключично-сосцевидная_мышца
+		musculi_suprahyodei ru:надподъязычные_мышцы
+			M_digastricus ru:Двубрюшная_мышца
+				Venter_anterior ru:Переднее_брюшко
+				Venter_posterior ru:Заднее_брюшко
+			M_stylohyoideus ru:Шилоподъязычная_мышца
+			M_mylohyoideus ru:Челюстно-подъязычная_мышца
+			M_geniohyoideus ru:Подбородочно-подъязычная_мышца
+		musculi_infrahyoidei ru:подподъязычные_мышцы
+			M_sternohyoideus ru:Грудинно-подъязычная_мышца
+			M_omohyoideus ru:Лопаточно-подъязычная_мышца
+				Venter_superior ru:Верхнее_брюшко
+				Venter_inferior ru:Нижнее_брюшко
+			M_sternothyroideus ru:Грудино-щитовидная_мышца
+			M_thyrohyoideus ru:Щитоподъязычная_мышца
+			M_levator_gl_thyroideae ru:Мышца_поднимающая_щитовидную_железу
+		fascia_cervicalis ru:шейная_фасция
+			Lam_superficialis ru:Поверхностная_пластинка
+			Lam_pretrachealis ru:Предтрахеальная_пластинка
+			Lam_prevertebralis ru:Предпозвоночная_пластинка
+			Vag_carotica ru:Сонное_влагалище
+		tunica_muscularis_pharyngis ru:мышечная_оболочка_глотки
+			M_constrictor_pharyngis_superior ru:Верхний_констриктор_глотки
+				Pars_pterygopharyngea ru:Крылоглоточная_часть
+				Pars_baccopharyngea ru:Щечно-глоточная_чаксть
+				Pars_mylopharyngea ru:Челюстно-глоточная_часть
+				Pars_glossopharyngea ru:Языко-глоточная_часть
+			M_stylopharyngeus ru:Шилоглоточная_мышца
+			M_salpingopharyngeus ru:Трубно-глоточная_мышца
+			M_constrictor_pharyngis_medius ru:Средний_констриктор_глотки
+				Pars_chondropharyngea ru:Хрящеглоточная_часть
+				Pars_ceratopharyngea ru:Рожково-глоточная_часть
+			M_constrictor_pharyngis_inferior ru:Нижний_констриктор_глотки
+				Pars_thyropharyngea ru:Щитоглоточная_часть
+				Pars_cricopharyngea ru:Перстне-глоточная_часть
+		musculi_laryngis ru:мышцы_гортани
+			M_aryepiglotticus ru:Черпалонадгортанная_мышца
+			M_crycothyroideus ru:Перстнещитовидная_мышца
+				Pars_recta ru:Прямая_часть
+				Pars_obliqua ru:Косая_часть
+			M_cricoarytenoideus ru:Задняя_перстнечерпаловидная_мышца
+			M_ceratocricoideus ru:Рожково-перстневидная_мышца
+			M_cricoarytenoideus_lateralis ru:Латеральная_перстнечерпаловидная_мышца
+			M_vocalis ru:Голосовая_мышца
+			M_thyroepiglotticus ru:Щитонадгортанная_мышца
+			M_thyroarytenoideus ru:Щиточерпаловидная_мышца
+			M_arytenoideus_obliquus ru:Косая_черпаловидная_мышца
+			M_arytenoideus_transversus ru:Поперечная_черпаловидная_мышца
+		musculi_dorsi ru:мышцы_спины
+			M_trapezius ru:Трапециевидная_мышца
+			M_tranversus_nuchae ru:Поперечная_мышца_затылка
+			M_latissimus_dorsi ru:Широчайшая_мышца_спины
+			M_rhomboideus_major ru:Большая_ромбовидная_мышца
+			M_rhomboideus_minor ru:Малая_ромбовидная_мышца
+			M_levator_scapulae ru:Мышца_поднимающая_лопатку
+			M_serratus_posterior_inferior ru:Нижняя_задняя_зубчатая_мышца
+			M_serratus_posterior_superior ru:Верхняя_задняя_зубчатая_мышца
+		musculi_erector_spinae ru:мышца_выпрямляющая_позвоночник
+			M_iliocostalis ru:Подвздошно-реберная_мышца
+				M_iliocostalis_lumborum ru:Подвздошно-реберная_мышца_поясницы
+				M_iliocostalis_thoracis ru:Подвздошно-реберная_мышца_груди
+				M_iliocostalis_cervicis ru:Подвздошно-реберная_мышца_шеи
+			M_longissimus ru:Длиннейшая_мышца
+				M_longissimus_thoracis ru:Длиннейшая_мышца_груди
+				M_longissimus_cervicis ru:Длиннейшая_мышца_шеи
+				M_longissimus_capitis ru:Длиннейшая_мышца_головы
+			M_spinalis ru:Остистая_мышца
+				M_spinalis_thoracis ru:Остистая_мышца_груди
+				M_spinalis_cervicis ru:Остистая_мышца_шеи
+				M_spinalis_capitis ru:Остистая_мышца_головы
+		Musculus_transversospinalis ru:поперечно-остистая_мышца
+			M_semispinalis ru:Полуостистая_мышца
+				M_semispinalis_thoracis ru:Полуостистая_мышца_груди
+				M_semispinalis_cervicis ru:Полуостистая_мышца_шеи
+				M_semispinalis_capitis ru:Полуостистая_мышца_головы
+			mm_multifidi ru:многораздельные_мышцы
+			mm_rotatores ru:мышцы-вращатели
+				mm_rotatores_cervicis ru:вращатели_шеи
+				mm_rotatores_thoracis ru:вращатели_груди
+				mm_rotatores_lumborum ru:вращатели_поясницы
+		musculi_interspinales ru:межостистые_мышцы
+			mm_interspinales_cervicis ru:межостистые_мышцы_шеи
+			mm_interspinales_thoracis ru:межостистые_мышцы_груди
+			mm_interspinales_lumborum ru:межостистые_мышцы_поясницы
+			musculi_intertransversarii ru:межпоперечные_мышцы
+			mm_intertransversarii_laterales_lumborum ru:Латеральные_межпоперечные_мышцы_поясницы
+			mm_intertransversarii_mediales_lumborum ru:Медиальные_межпоперечные_мышцы_поясницы
+			mm_intertransversarii_thoracis ru:Межпоперечные_мышцы_груди
+			mm_intertransversarii_posteriores_cervicis ru:Задние_межпоперечные_мышцы_шеи
+				Pars_medialis ru:Медиальная_часть
+				Pars_lateralis ru:Латеральная_часть
+			mm_intertransversarii_anteriores_cervicis ru:Передние_межпоперечные_мышцы_шеи
+			Fascia_thoracolumbalis ru:Пояснично-грудная_фасция
+			Fascia_nuchae ru:Выйная_фасция
+		musculi_thoracis syn:M_sternalis ru:мышцы_груди,грудинная_мышца
+			M_pectoralis_major ru:Большая_грудная_мышца
+				Pars_clavicularis ru:Ключичная_часть
+				Pars_sternocostalis ru:Грудино-реберная_часть
+				Pars_abdominalis ru:Брюшная_часть
+			M_pectoralis_minor ru:Малая_грудная_мышца
+			M_subclavius ru:Подключичная_мышца
+			Fascia_pectoralis ru:Грудная_фасция
+			Fascia_clavipectoralis ru:Ключично-грудная_фасция
+			M_serratus_anterior ru:Передняя_зубчатая_мышца
+			mm_levatores_costarum ru:Мышцы_поднимающие_ребра
+				mm_levatores_costarum_longi ru:Длинные_мышцы_поднимающие_ребра
+				mm_levatores_costarum_breves ru:Короткие_мышцы_поднимающие_ребра
+			mm_intercostales_externi ru:Наружные_межреберные_мышцы
+			Membrana_intercostalis_externa ru:Наружная_межреберная_перепонка
+			mm_intercostales_interni ru:Внутренние_межреберные_мышцы
+			Membrana_intercostalis_interna ru:Внутренняя_межреберная_перепонка
+			mm_intercostales_intimi ru:самые_внутренние_межреберные_мышцы
+			mm_subcostales ru:подреберные_мышцы
+			M_transversus_thoracis ru:Поперечная)мышца_груди
+			Fascia_thoracica ru:Грудная_фасция
+			Fascia_endothoracica ru:Внутригрудная_фасция
+		diaphragma ru:диафрагма
+			Pars_lumbalis ru:Поясничная_часть
+				Crus_dextrum ru:Правая_ножка
+				Crus_sinistrum ru:Левая_ножка
+			Pars_costalis ru:Реберная_часть
+			Pars_sternalis ru:Грудинная_часть
+			Hiatus_aorticus ru:Аортальное_отверстие
+			Hiatus_esophageus syn:Hyatus_oesophageus ru:Пищеводное_отверстие
+			Cebtrum_tendineum ru:Сухожильный_центр
+			For_venae_cavae ru:Отверстие_нижней_полой_вены
+			Lig_arcuatum_mediale ru:Медиальная_дугообразная_связка
+			Lig_arcuatum_laterale ru:Латеральная_дугообразная_связка
+			Lig_arcuatum_medianum ru:Срединная_дугообразная_связка
+		musculi_abdominis ru:мышцы_живота
+			M_rectus_abdominis ru:Прямая_мышца_живота
+				Intersectiones_tendineae ru:Сухожильные_перемычки
+				Vag_m_recti_abdominis ru:Влагалище_прямой_мышцы_живота
+					Lam_anterior ru:Передняя_пластинка
+					Lam_posterior ru:Задняя_пластинка
+						Linea_arcuata ru:Дугообразная_линия
+			M_pyramidalis ru:Пирамидальная_мышца
+			M_obliquus_externus_abdominis ru:Наружная_косая_мышца_живота
+				Lig_inguinale syn:Arcus_inguinalis ru:Паховая_связка,Паховая_дуга
+					Lig_lacunare ru:Лакунарная_связка
+						Lig_pectineale ru:Гребенчатая_связка
+					Lig_reflexum ru:Загнутая_связка
+				Annulus_inguinalis_superficialis ru:Поверхностное_паховое_кольцо
+					Crus_mediale ru:Медиальная_ножка
+					Crus_laterale ru:Латеральная_ножка
+					fibrae_intercrurales ru:межножковые_волокна
+			M_obliquus_internus_abdominis ru:Внутренняя_косая_мышца_живота
+				M_cremaster ru:Мышца_поднимающая_яичко
+			M_transversus_abdominis ru:Поперечная_мышца_живота
+				Falx_inguinalis syn:Tendo_conjuctivus ru:Паховый_серп,Соединительное_сухожилие
+			Linea_alba ru:Белая_линия
+				Annulus_umbilicalis ru:Пупочное_кольцо
+				Adminiculum_lineae_albae ru:Подпора_белой_линии
+			Lig_suspensorium_penis sex:male ru:Связка_подвешивающая_половой_член
+			Lig_suspensorium_clitoridis sex:female ru:Связка_подвешивающая_половой_клитор
+			Lig_fundiforme_penis sex:male ru:Пращевидная_связка_полового_члена
+			Trigonum_lumbale ru:Поясничный_треугольник
+			Fascia_transversalis ru:Поперечная_фасция
+			Annulus_inguinalis_profundus ru:Глубокое_паховое_кольцо
+			Canalis_inguinalis ru:Паховый_канал
+			Lig_interfoveolare ru:Межъямочковая_связка
+			M_quadratus_lumborum ru:Квадратная_мышца_поясницы
+		musculi_diaphragmatis_pelvis ru:мышцы_диафрагмы_таза
+			M_levator_ani ru:Мышца_поднимающая_задний_проход
+				M_pubococcygeus ru:Лобково-копчиковая_мышца
+				M_levator_prostatae sex:male ru:Мышца_поднимающая_предстательную_железу,Лобково-влагалищная_мышца
+				M_levator_pubovaginalis sex:female ru:Лобково-влагалищная_мышца
+				M_puborectalis ru:Лобково-влагалищная_мышца
+				M_pubovaginalis ru:Подвздошно-копчиковая_мышца
+				M_iliococcygeus ru:Подвздошно-копчиковая_мышца
+				Arcus_tendineus_m_levatoris_ani ru:Сухожильная_дуга_мышцы_поднимающей_задний_проход
+			M_coccygeus ru:Копчиковая_мышца
+			M_sacrococcygeus_ventralis ru:Вентральная_крестцово-копчиковая_мышца
+			M_sacrococcygeus_dorsalis ru:Дорсальная_крестцово-копчиковая_мышца
+			M_sphincter_ani_externus ru:Наружный_сфинктер_заднего_прохода
+				Pars_subcutanea ru:Подкожная_часть
+				Pars_superficialis ru:Поверхностная_часть
+				Pars_profunda ru:Глубокая_часть
+			Lig_anococcygeum ru:Заднепроходно-копчиковая_связка
+			Fascia_pelvis ru:Фасция_таза
+				Fascia_pelvis_parietalis ru:Париетальная_фасция_таза
+					Fascia_obturatoria ru:Запирательная_фасция
+				Fascia_pelvis_visceralis ru:Висцеральная_фасция_таза
+					Fascia_prostatae +sex:male ru:Предстательная_фасция
+						Septum_rectovesicale ru:Прямокишечно-пузырная_перегородка
+					Septum_rectovaginale sex:female ru:Прямокишечно-влагалищная_перегородка
+			Fascia_diaphragmatis_pelvis_superior ru:Верхняя_фасция_диафграгмы_таза
+			Arcus_tendineus_fasciae_pelvis ru:Сухожильная_дуга_фасции_таза
+			Lig_puboprostaticum syn:Lig_pubovesicale sex:male ru:Лобково-предстательная_связка,Лобково-пузырная_связка
+			Fascia_diaphragmatis_pelvis_inferior ru:Нижняя_фасция_диафрагмы_таза
+		musculi_diaphragmatis_urogenitalis ru:мышцы_мочеполовой_диафрагмы
+			Spatium_perinei_prfundum ru:Глубокое_пространство_промежности
+				M_transversus_perinei_profundus ru:Глубокая_поперечная_мышца_промежности
+				M_sphincter_uretrae ru:Сфинктер_мочеиспускательного_канала
+			Fascia_diaphragmatis_urogenitalis_superior ru:Верхняя_фасция_мочеполовой_диафрагмы
+			Fascia_diaphragmatis_urogenitalis_inferior ru:Нижняя_фасция_мочеполовой_диафрагмы
+			Membraba_perinei ru:Мембрана_промежности
+				Lig_transversum_perinei ru:Поперечная_связка_промежности
+			Spatium_perinei_superficiale ru:Поверхностное_пространство_промежности
+				M_transversus_perinei_superficialis ru:Поверхностная_поперечная_мышца_промежности
+				M_ischiocavernosus ru:Седалищно-пещеристая_мышца
+				M_bulbospongiosus ru:Луковично-губчатая_мышца
+			Fascia_perinei_superficialis ru:Поверхностная_фасция_промежности
+			Fossa_ischiorectalis ru:Седалищно-прямокишечная_ямка
+				Corpus_adiposum_fossae_ischiorectalis ru:Жировое_тело_седалищно-прямокишечной_ямки
+				Canalis_pudendalis ru:Пудендиальный_канал
+			Spatium_retropubicum ru:Позадилобковое_пространство
+		musculi_membri_superioris ru:мышцы_верхней_конечности
+			M_deltoideus ru:Дельтовидная_мышца
+			M_supraspinatus ru:Надостная_мышца
+			M_infraspinatus ru:Подостная_мышца
+			M_teres_minor ru:Малая_круглая_мышца
+			M_teres_major ru:Большая_круглая_мышца
+			M_subscapularis ru:Подлопаточная_мышца
+			M_biceps_brachii ru:Двуглавая_мышца_плеча
+				Caput_longum ru:Длинная_головка
+					Vag_synovialis_intertubercularis ru:Межбугорковое_синовиальное_влагалище
+				Caput_breve ru:Короткая_головка
+				Aponeurosis_m_bicipitis_brachii syn:Aponeurosis_bicipitalis ru:Апоневроз_двуглавой_мышцы_плеча
+			M_coracobrachialis ru:Клювовидно-плечевая_мышца
+			M_brachialis ru:Плечевая_мышца
+			M_triceps_brachii ru:Трехглавая_мышца_плеча
+				Caput_longum ru:Длинная_головка
+				Caput_laterale ru:Латеральная_головка
+				Caput_mediale ru:Медиальная_головка
+			Reg_axillaris ru:Подмышечная_область
+				aperturae_superior_et_inferior ru:верхняя_и_нижняя_апертуры
+			M_anconeus ru:Локтевая_мышца
+			M_articularis_cubiti ru:Суставная_мышца_локтя
+			M_pronator_teres ru:Круглый_пронатор
+				Caput_humerale ru:Плечевая_головка
+				Caput_ulnare ru:Локтевая_головка
+			M_flexor_carpi_radialis ru:Лучевой_сгибатель_запястья
+			M_palmaris_longus ru:Длинная_ладонная_мышца
+			M_flexor_carpi_ulnaris ru:Локтевой_сгибатель_запястья
+				Caput_humerale ru:Плечевая_головка
+				Caput_ulnare ru:Локтевая_головка
+			M_flexor_digitorum_superficialis ru:Поверхностный_сгибатель_пальцев
+				Caput_humeroulnare ru:Плечелоктевая_головка
+				Caput_radiale ru:Лучевая_головка
+			M_flexor_digitorum_profundus ru:Глубокий_сгибатель_пальцев
+			M_flexor_pollicis_longus ru:Длинный_сгибатель_большого_пальца_кисти
+			M_pronator_quadratus ru:Квадратный_пронатор
+			M_brachioradialis ru:Плечелучевая_мышца
+			M_extensor_carpi_radialis_longus ru:Длинный_лучевой_разгибатель_запястья
+			M_extensor_carpi_radialis_brevis ru:Короткий_лучевой_разгибатель_запястья
+			M_extensor_digitorum ru:Разгибатель_пальцев
+				Conexus_intertendineus ru:Межсухожильное_соединение
+			M_extensor_digiti_minimi ru:Разгибатель_мизинца
+			M_extensor_carpi_ulnaris ru:Лучевой_разгибатель_запястья
+				Caput_humerale ru:Плечевая_головка
+				Caput_ulnare ru:Локтевая_головка
+			M_supinator ru:Супинатор
+			M_abductor_pollicis_longus ru:Длинная_мышца_отводящая_большой_палец_ноги
+			M_extensor_pollicis_brevis ru:Короткий_разгибатель_большого_пальца_ноги
+			M_extensor_pollicis_longus ru:Длинный_разгибатель_большого_пальца_ноги
+			M_extensor_indicis ru:Разгибатель_указательного_пальца
+			M_palmaris_brevis ru:Короткая_ладонная_мышца
+			M_abductor_pollicis_brevis ru:Короткая_мышца_отводящая_большой_палец_кисти
+			M_flexor_pollicis_brevis ru:Короткий_сгибатель_большого_пальца_кисти
+				Caput_superficiale ru:Поверхностная_головка
+				Caput_profundum ru:Глубокая_головка
+			M_opponens_pollicis ru:Мышца_противопоставляющая_большой_палец_кисти
+			M_adductor_pollicis ru:Мышца_приводящая_большой_палец_кисти
+				Caput_obliquum ru:Косая_головка
+				Caput_transversum ru:Поперечная_головка
+			M_abductor_digiti_minimi ru:Мышца_отводящая_мизинец
+			M_flexor_digiti_minimi_brevis ru:Короткий_сгибатель_мизинца
+			M_opponens_digiti_minimi ru:Мышца_противопоставляющая_мизинец
+			mm_lumbricales ru:червеобразные_мышцы
+			mm_interossei_dorsales ru:Тыльные_межкостные_мышцы
+			mm_interossei_palmales ru:Ладонные_межкостные_мышцы
+			Fascia_axillaris ru:Подмышечная_фасция
+			Fascia_deltoidea ru:Дельтовидная_фасция
+			Fascia_brachii ru:Фасция_плеча
+			Septum_intermusculare_brachii_mediale ru:Медиальная_межмышечная_перегородка_плеча
+			Septum_intermusculare_brachii_laterale ru:Латеральная_межмышечная_перегородка_плеча
+			Fascia_antebrachii ru:Фасция_предплечья
+			Fascia_dorsalis_manus ru:Тыльная_фасция_кисти
+			Reinaculum_extensorum ru:Удерживатель_разгибателей
+			Lig_metacarpeum_transversum_superficiale ru:Поверхностная_поперечная_пястная_связка
+			Aponeurosis_palmaris ru:Ладонный_апоневроз
+				Fasciculi_transversi ru:Поперечные_пучки
+			Retinaculum_flexorum ru:Удерживатель_сгибателя
+			Canalis_carpi ru:Канал_запястья
+			Chiasma_tendinum ru:Перекрест_сухожилий
+		musculi_membri_inferioris ru:мышцы_нижней_конечности
+			M_iliopsoas ru:Подвздошно-поясничная_мышца
+				M_iliacus ru:Подвздошная_мышца
+				M_psoas_major ru:Большая_поясничная_мышца
+				M_psoas_minor ru:Малая_поясничная_мышца
+			M_gluteus_maximus ru:Большая_ягодичная_мышца
+			M_gluteus_medius ru:Средняя_ягодичная_мышца
+			M_gluteus_minimus ru:Малая_ягодичная_мышца
+			M_tensor_fasciae_latae ru:Напрягатель_широкой_фасции
+			M_piriformis ru:Грушевидная_мышца
+			M_obturatorius_internus ru:Внутренняя_запирательная_мышца
+			M_gemellus_superior ru:Верхняя_близнецовая_мышца
+			M_gemellus_inferior ru:Нижняя_близнецовая_мышца
+			M_quadratus_femoris ru:Квадратная_мышца_бедра
+			M_sartorius ru:Портняжная_мышца
+			M_quadriceps_femoris ru:Четырехглавая_мышца_бедра
+				M_rectus_femoris ru:Прямая_мышца_бедра
+					Caput_rectum ru:Прямая_головка
+					Caput_reflexum ru:Загнутая_головка
+				M_vastus_lateralis ru:Латеральная_широкая_мышца_бедра
+				M_vastus_intermediua ru:Промежуточная_широкая_мышца_бедра
+				M_vastus_medialis ru:Медиальная_широкая_мышца_бедра
+			M_articularis_genus ru:Суставная_мышца_колена
+			M_pectineus ru:Гребенчатая_мышца
+			M_adductor_longus ru:Длинная_приводящая_мышца
+			M_adductor_brevis ru:Короткая_приводящая_мышца
+			M_adductor_magnus ru:Большая_приводящая_мышца
+			M_gracilis ru:Тонкая_мышца
+			M_obturatorius_externus ru:Наружная_запирательная_мышца
+			M_biceps_femoris ru:Двуглавая_мышца_бедра
+				Caput_longum ru:Длинная_головка
+				Caput_breve ru:Короткая_головка
+			M_semitendinosus ru:Полусухожильная_мышца
+			M_semimembranosus ru:Полуперепончатая_мышца
+			M_tibialis_anterior ru:Передняя_большеберцовая_мышца
+			M_extensor_digitorum_longus ru:Длинный_разгибатель_пальцев
+			M_peroneus_tertius syn:M_fibularis_tertius ru:Третья_малоберцовая_мышца
+			M_extensor_hallucis_longus ru:Длинный_разгибатель_большого_пальца
+			M_peroneus_longus syn:M_fibularis_longus ru:Длинная_малоберцовая_мышца
+			M_peroneus_brevis syn:M_fibularis_brevis ru:Короткая_малоберцовая_мышца
+			M_triceps_surae ru:Трехглавая_мышца_голени
+				M_gastrocnemius ru:Икроножная_мышца
+					Caput_laterale ru:Латеральная_головка
+					Caput_mediale ru:Медиальная_головка
+				M_soleus ru:Камбаловидная_мышца
+					Arcus_tendineus_m_solei ru:Сухожильная_дуга_камбаловидной_мышцы
+				Tendo_calcaneus syn:Achillis ru:Пяточное_сухожилие,Ахиллово_сухожилие
+			M_plantaris ru:Подошвенная_мышца
+			M_popliteus ru:Подколенная_мышца
+			M_tibialis_posterior ru:Задняя_большеберцовая_мышца
+			M_flexor_digitorum_longus ru:Длинный_сгибатель_пальцев
+			M_flexor_hallucis_longus ru:Длинный_сгибатель_большого_пальца_стопы
+			M_extensor_hallucis_brevis ru:Короткий_разгибатель_большого_пальца_стопы
+			M_extensor_digitorum_brevis ru:Короткий_разгибатель_пальцев
+			M_abductor_hallucis ru:Мышца_отводящая_большой_палец_стопы
+			M_flexor_hallucis_brevis ru:Короткий_сгибатель_большого_пальца_стопы
+			M_adductor_hallucis ru:Мышца_приводящая_большой_палец_стопы
+				Caput_obliquum ru:Косая_головка
+				Caput_transversum ru:Поперечная_головка
+			M_abductor_digiti_minimi ru:Мышца_отводящая_мизинец_стопы
+			M_flexor_digiti_minimi_brevis ru:Короткий_сгибатель_мизинца_стопы
+			M_flexor_digitorum_brevis ru:Короткий_сгибатель_пальцев
+			M_quadratus_plantae ru:Квадратная_мышца_подошвы
+			M_flexor_acessorius ru:Добавочный_сгибатель
+			mm_lumbricales ru:червеобразыне_мышцы
+			mm_interossei_dorsales ru:тыльные_межкостные_мышцы
+			mm_interossei_plantares ru:подошвенные_межкостные_мышцы
+			Fascia_lata ru:Широкая_фасция
+				Tractus_iliotibialis ru:Подвздошно-большеберцовый_тракт
+			Septum_intermusculare_femoris_laterale ru:Латеральная_межмышечная_перегородка_бедра
+			Septum_intermusculare_femoris_mediale ru:Медиальная_межмышечная_перегородка_бедра
+			Canalis_abductorius ru:Приводящий_канал
+			Hiatus_tendineus_abductorius ru:Сухожильная_щель,Сухожильная_щель_большой_приводящей_мышцы
+			Fascia_iliaca ru:Подвздошная_фасция
+			Lacuna_musculorum ru:Мышечная_лакуна
+			Arcus_iliopectineus ru:Подвздошно-гребенчатая_дуга
+			Lacuna_vasorum ru:Сосудистая_лакуна
+			Trigonum_femorale ru:Бедренный_треугольник
+			Canalis_femoralis ru:Бедренный_канал
+			Annulus_femoralis ru:Бедренное_кольцо
+			Septum_femorale ru:Бедренная_перегородка
+			Hiatus_saphenus ru:Подкожная_щель
+				Margo_falciformis ru:Серповидный_край
+					Cornu_superius ru:Верхний_рог
+					Cornu_inferius ru:Нижний_рог
+				Fascia_cribrosa ru:Решетчатая_фасция
+			Fascia_cruris ru:Фасция_голени
+			Septum_intermusculare_anterius_cruris ru:Передняя_межмышечная_перегородка_голени
+			Septum_intermusculare_posterius_cruris ru:Задняя_межмышечная_перегородка_голени
+			Retinaculum_musculorum_extensorum_superius ru:Верхний_удерживатель_сухожилий-разгибателей
+			Retinaculum_musculorum_flexorum ru:Удерживатель_сухожилий-сгибателей
+			Retinaculum_musculorum_extensorum_inferius ru:Нижний_удерживатель_сухожилий-разгибателей
+			Retinaculum_musculorum_peroneorum_superius syn:Retinaculum_musculorum_fibularium_superius ru:Верхний_удерживатель_сухожилий_малоберцовых_мышц
+			Retinaculum_musculorum_peroneorum_inferius syn:Retinaculum_musculorum_fibularium_inferius ru:Нижний_удерживатель_сухожилий_малоберцовых_мышц
+			Fascia_dorsalis_pedis ru:Тыльная_фасция_стопы
+			Aponeurosis_plantaris ru:Подошвенный_апоневроз
+				Fasciculi_transversi ru:Поперечные_пучки
+			Lig_metatarseum_transversum_superficiale ru:Поверхностная_поперечная_связка_плюсны
+		bursae_et_vaginae_synoviales ru:синовиальные_сумки_и_влагалища
+			B_synovialis_subcutanea ru:Подкожная_синовиальная_сумка
+			B_synovialis_submuscularis ru:Подмышечная_синовиальная_сумка
+			B_synovialis_subfascialis ru:Подфасциальная_синовиальная_сумка
+			B_synovialis_subtendinea ru:Подсухожильная_синовиальная_сумка
+			Vag_synovialis_tendinis ru:Синовиальное_влагалище_сухожилия
+			B_m_tensoris_veli_palatini ru:Сумка_мышцы_натягивающей_небную_занавеску
+			B_subcutanea_prominentiae_laryngealis ru:Подкожная_сумка_выступа_гортани
+			B_infrahyoidea ru:Поподъязычная_сумка
+			B_retrohyoidea ru:Позадиподъязычная_сумка
+			B_subtendinea_m_trapezii ru:Подсухожильная_сумка_трапециевидной_мышцы
+			B_subcutanea_acromialis ru:Акромиальная_подкожная_сумка
+			B_subacromialis ru:Подакромиальная_сумка
+			B_subdeltoidea ru:Поддельтовидная_сумка
+			B_m_coracobrachialis ru:Сумка_клювоплечевой_мышцы
+			B_subtendinea_m_subscapularis ru:Подсухожильная_сумка_подлопаточной_мышцы
+			B_subtendinea_m_teretis_majoris ru:Подсухожильная_сумка_большой_круглой_мышцы
+			B_subtendinea_m_latissimi_dorsi ru:Подсухожильная_сумка_широчайшей_мышцы_спины
+			B_subcutanea_olecrani ru:Локтевая_подкожная_сумка
+			B_intratendinea_olecrani ru:Локтевая_внутрисухожильная_сумка
+			B_subtendinea_m_tricipitis_brachii ru:Подсухожильная_сумка_трехглавой_мышцы_плеча
+			B_bicipitoradialis ru:Двуглаво-лучевая_сумка
+			B_cubitalis_interossea ru:Межкостная_локтевая_сумка
+			Vag_fibrosae_digitorum_manus ru:Фиброзные_влагалища_пальцев_кисти
+				Pars_annularis_vaginae_fibrosae ru:Кольцевая_часть_фиброзного_влагалища
+				Pars_cruciformis_vaginae_fibrosae ru:Крестообразная_часть_фиброзного_влагалища
+			vagg_synoviales_digitorum_manus ru:синовиальные_влагалища_пальцев_кисти
+				vincula_tendinum ru:связки_сухожилий
+					Vinculum_longum ru:Длинная_связка
+					Vinculum_breve ru:Короткая_связка
+			Vag_tendinum_mm_abductoris_longi_et_extensoris_brevis_pollicis ru:Влагалище_сухожилий_длинной_отводящей_мышцы_и_короткого_разгибателя_большого_пальца_кисти
+			Vag_tendinum_mm_extensorum_carpi_radialium ru:Влагалище_сухожилий_лучевых_разгибателей_запястья
+			Vag_tendinis_m_extensoris_pollicis_longi ru:Влагалище_сухожилия_длинного_разгибателя_большого_пальца_кисти
+			Vag_tendinis_m_extensoris_digitorum_et_extensoris_indicis ru:Влагалище_сухожилий_разгибателей_пальцев_и_указательного_пальца
+			Vag_tendinis_m_extensoris_digiti_minimi ru:Влагалище_сухожилия_разгибателя_мизинца
+			Vag_tendinis_m_extensoris_carpi_ulnaris ru:Влагалище_сухожилия_локтевого_разгибателя_запястья
+			B_m_extensoris_carpi_radialis_brevis ru:Сумка_короткого_лучевого_разгибателя_запястья
+			Vag_synovialis_tendinis_m_flexoris_carpi_radialis ru:Синовиальное_влагалище_сухожилия_лучевого_сгибателя_запястья
+			Vag_synovialis_communis_mm_flexorum ru:Общее_синовиальное_влагалище_сгибателей
+			Vag_tendinis_m_flexoris_pollicis_longi ru:Влагалище_сухожилия_длинного_сгибателя_большого_пальца_кисти
+			Vag_synovialis_tendinum_digitorum_manus ru:Синовиальные_влагалища_сухожилий_пальцев_кисти
+			B_subcutanea_trochanterica ru:Подкожная_вертельная_сумка
+			B_trochanterica_m_glutei_maximi ru:Вертельная_сумка_большой_ягодичный_мышцы
+			bb_trochantericae_m_glutei_minimi ru:вертельные_сумки_малой_ягодичной_мышцы
+			B_trochanterica_m_glutei_minimi ru:Вертельная_сумка_малой_ягодичной_мышцы
+			B_m_piriformis ru:Сумка_грушевидной_мышцы
+			B_ischiadica_m_obturatorii_interni ru:Седалищная_сумка_внутренней_запирательной_мышцы
+			B_subtendinea_m_obturatorii_interni ru:подсухожильная_сумка_внутренней_запирательной_мышцы
+			bb_intermusculares_gluteorum ru:межмышечные_сумки_ягодичных_мышц
+			B_ischiadica_m_glutei_maximi ru:Седалищная_сумка_большой_ягодичной_мышцы
+			B_iliopectinea ru:Подвздошно-гребенчатая_сумка
+			B_subtendinea_iliaca ru:Подсухожильная_подвздошная_сумка
+			B_m_bicipitis_femoris_superior ru:Верхняя_сумка_двуглавой_мышцы_бедра
+			B_subcutanea_prepatellaris ru:Подкожная_преднадколенниковая_сумка
+			B_subfascialis_prepatellaris ru:Подфасциальная_преднадколенниковая_сумка
+			B_subtendinea_prepatellaris ru:Подсухожильная_преднадколенниковая_сумка
+			B_suprapatellaris ru:Наднадколенниковая_сумка
+			B_subcutanea_infrapatellaris ru:Подкожная_поднадколенниковая_сумка
+			B_infrapatellaris_profunda ru:Глубокая_поднадколенниковая_сумка
+			B_subcutanea_tuberositatis_tibiao ru:Подкожная_сумка_бугристости_большеберцовой_кости
+			bb_subtendineae_m_sartorii ru:подсухожильные_сумки_портняжной_мышцы
+			B_anserina ru:Сумка_гусиной_лапки
+			B_subtendinea_m_bicipitis_femoris_inferior ru:Нижняя_подсухожильная_сумка_двуглавой_мышцы_бедра
+			Recessus_subpopliteus ru:Подколенное_углубление
+			B_subtendinea_m_gastrocnemii_lateralis ru:Латеральная_подсухожильная_сумка_икроножной_мышцы
+			B_subtendinea_m_gastrocnemii_medialis ru:Медиальная_подсухожильная_сумка_икроножной_мышцы
+			B_m_semimembranosi ru:Сумка_полуперепончатой_мышцы
+			B_subcutanea_malleoli_lateralis ru:Подкожная_сумка_латеральной_лодыжки
+			B_subcutanea_malleoli_medialis ru:Подкожная_сумка_медиаальной_лодыжки
+			Vag_tendinis_m_tibialis_anterioris ru:Влагалище_сухожилия_передней_большеберцовой_мышцы
+			Vag_tendinis_m_extensoris_hallucis_longi ru:Влагалище_сухожилия_длинного_разгибателя_большого_пальца_стопы
+			Vag_tendinum_m_extensoris_digitorum_pedis_longi ru:Влагалище_сухожилий_длинного_разгибателя_пальцев_стопы
+			Vag_tendinum_m_flexoris_digitorum_pedis_longi ru:Влагалище_сухожилий_длинного_сгибателя_пальцев_стопы
+			Vag_synovialis_tendinis_m_tibialis_posterioris ru:Синовиальное_влагалище_сухожилия_задней_большеберцовой__мышцы
+			Vag_synovialis_tendinis_m_flexoris_hallucis_longi ru:Синовиальное_влагалище_сухожилия_длинного_сгибателя_большого_пальца_стопы
+			Vag_synovialis_mm_peroneorum_communis syn:Vag_synovialis_mm_fibularium_communis ru:Общее_синовиальное_влагалище_малоберцовых_мышц
+			B_subtendinea_m_tibialis_anterioris ru:Подсухожильная_сумка_передней_большеберцовой_мышцы
+			B_subcutanea_calcanea ru:Подкожная_пяточная_сумка
+			B_tendinis_calcanei ru:Сумка_пяточного_сухожилия,Сумка_Ахиллова_сухожилия
+			Vag_tendinis_m_peronei_longi_plantaris syn:Vag_tendinis_m_fibularis_longi_plantaris ru:Подошвенное_влагалище_сухожилия_длинной_малоберцовой_мышцы
+			vagg_synoviales_tendinum_digitorum_pedis ru:Синовиальные_влагалища_сухожилий_пальцев_стопы
+			vagg_synoviales_digitorum_pedis ru:Синовиальные_влагалища_пальцев_стопы
+				Vincula_tendinum ru:Связки_сухожилий
+			vagg_fibrosae_digitorum_pedis ru:Фиброзные_влагалища_пальцев_стопы
+				Pars_annularis_vag_fibrosae ru:Кольцевая_часть_фиброзного_влагалища
+				Pars_cruciformis_vag_fibrosae ru:Крестообразная_часть_фиброзного_влагалища
