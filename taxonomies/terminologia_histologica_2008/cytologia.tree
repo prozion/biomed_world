@@ -1,0 +1,280 @@
+cytologia en:cytology idx-mask:H1.00.01.0.00xxx
+	_
+		Cellula en:Cell
+		protoplasma en:protoplasm
+		Nucleus en:Nucleus
+		cytoplasma en:cytoplasm
+			ectoplasma en:ectoplasm,cortical_cytoplasm
+			endoplasma en:endoplasm
+				hyaloplasma en:hyaloplasm
+			cytosol syn:matrix_cytoplasmica en:cytosol
+		Organella syn:organula en:organelles
+		inclusiones_cytoplasmicae en:cytoplasmic_inclusions
+		plasmalemma syn:membrana_cellularis en:plasmalemma,cell_membrane,plasma_membrane
+		junctiones_cellularis en:cellular_junctions
+		spatium_intercellulare en:intercellular_space
+		substantia_intercellularis en:intercellular_substance
+		ratio_nucleocytoplasmica en:nucleocytoplasmic_ratio
+		Cellula_uninucleata en:Uninucleate_cell
+		Cellula_mononucleata en:Mononucleate_cell
+		Cellula_binucleata en:Binucleate_cell
+		Cellula_multinucleata en:Multinucleate_cell
+			Syncytium
+			Plasmodium
+		Cellula_anucleata en:Anucleate_cell
+		Cellula_somatica en:Somatic_cell
+		Cellula_germinativa en:Germ_cell
+		Cellula_primordialis en:Primordial_cell ru:Изначальная_клетка
+			Cellula_fundatoria en:Founder_cell
+				Cellula_proprecursoria en:Prestem_cell abbr:PSC
+		Cellula_precursoria en:stem_cell ru:стволовая_клетка
+		Cellula_progenetrix en:Progenitor_cell
+		Cellula_precursoria_embryonica syn:stipitoblastus en:Embryonic_stem_cell abbr:ESC
+			Cellula_precursoria_embryonica_spontanea syn:Stipitoblastus_versus en:ESC_generated_spontaneously_in_vivo abbr:ESC_GS
+			Cellula_precursoria_embryonica_artificialis syn:Stipitoblastus_artficialis en:ESC_induced_artificially_in_vitro abbr:ESC_IA
+		Cellula_precursoria_fetalis en:Fetal_stem_cell
+		Cellula_precursoria_neonatalis en:Neonatal_stem_cell
+		Cellula_precursoria_adulta en:Adult_stem_cell
+		morphologia_externa en:external_morphology
+			Cellula_columnaris en:Columnar_cell
+			Cellula_cuboidea
+			Cellula_dendritiformis
+			Cellula_fusiformis
+			Cellula_gigantea
+			Cellula_ovoidea
+			Cellula_polyhedralis
+			Cellula_prismatica
+			Cellula_pyramidalis
+			Cellula_spheroidea
+			Cellula_squamosa syn:Cellula_plana en:Squamois_cell,Pavement_cell
+			Cellula_stellata en:Stellate_cell
+	plasmalemma syn:membrana_cellularis en:plasmalemma,cell_membrane idx-mask:H1.00.01.1.00xxx
+		glycocalyx
+		Facies_externa
+		Lamina_densa_externa
+		Facies_E syn:Facies_fracta_externa
+			Impressio_granull_intramembranacei
+		Lamina_intermedia_lucida
+		Granulum_intramembranaceum
+		Lamina_densa_interna
+		Facies_P syn:Facies_fracta_cytoplasmica,Facies_fracta_protoplasmica
+			Protrusio_granuli_intramembranacei ru:Выступ_внутримембранной_частицы
+		Facies_interna
+		specialisationes_superficiales
+			Invaginatio_cellularis
+			Processus_cellularis
+				Processus_amoeboideus
+				Pseudopodium
+				Microspina
+				Filopodium
+				Lamellipodium
+				Processus_polypoideus
+				Microplica
+				Microvillus
+				Limbus_microvillosus syn:Limbus_penicillatus,Limbus_striatus
+				Stereocillum
+				Cillum
+					Kinocillum
+					Statocillum
+					Axonema
+					Microtubulus_axonemalis
+					Microtubulus_centralis
+						Diplomicrotubulus_periphericus
+							Pons_nexini
+								Nexinum
+							Tectinum
+						Brachium_dyneini
+							Dyneinum
+						Vinculum_radiale
+						Corpusculum_basale syn:Kinetosoma
+							Triplomicrotubulus
+						Pes_basalis
+						Radix_basalis
+				Cillum_solitarium
+			Flagellum
+			Cillogenesis
+		junctiones_cellulares
+			junctiones_intercellulares
+				Junctio_adhaeslonis
+					Junctio_intercellularis_simplex
+						Junctio_intercellularis_denticulata
+						Junctio_intercellularis_digitiformis
+					Junctio_intercellularis_specialis
+						Junctio_occludens syn:Zonula_occludens
+							Rete_cristarum_occludentium
+						Macula_occludens
+						Fascia_occludens
+						Punctum_adhaerens
+						Zonula_adhaerens
+							Condensatio_intracellularis
+						Fascia_adhaerens
+						Desmosoma syn:Macula_adhaerens
+							Condensatio_desmosomatica_intracellularis
+								Zona_externa
+								Zona_interna
+							Condensatio_desmosomatica_intercellularis
+								Linea_intercellularis_densa
+							Desmogleina
+							Desmocollina
+				Junctio_communicans
+					Nexus syn:Macula_communicans,Synapsis_non_vesicularis,Synapsis_electrica
+						Connexoma
+							Connexina
+				Complexus_junctionalis
+				Junctio_cellulomatricalis
+					Hemidesmosoma
+						Condensatio_intracellularis
+					Contactus_focalis
+						Condensatio_focalis
+						Fibra_tensionis
+					Podosoma
+						Condensatio_podosomatica
+				Autodesmosoma
+	nucleus idx-mask:H1.00.01.2.00xxx
+		Nucleus_anularis
+		Nucleus_apoptoticus
+		Nucleus_baciliformis
+		Nucleus_fusiformis
+		Nucleus_indentatus
+		Nucleus_karyolyticus
+		Nucleus_karyorhecticus
+		Nucleus_moruliformis
+		Nucleus_multilobatus
+		Nucleus_ovoideus
+		Nucleus_piriformis
+		Nucleus_planus
+		Nucleus_polymorphus
+		Nucleus_pyknoticus
+		Nucleus_reniformis
+		Nucleus_segmentatus
+		Nucleus_sphericus
+		Nucleus_vesicularis
+		tegumentum_nucleare en:nuclear_envelope idx-mask:H1.00.01.2.01xxx
+			Membrana_nuclearis_externa
+			Spatium_perinucleare
+			Mambrana_nclearis_interna
+			Porus_nuclearis
+			Complexus_pori_nuclearis
+				Filamentum_cytoplasmicum
+				Anulus_pori_externus
+					Elementum_sphericum
+				Canalis_periphericus
+				Canalis_centralis
+					Vector_centralis syn:Obturamentum_centrale
+				Elementum_columnare
+				Elementum_luminarium
+				Anulus_pori_internus
+					Elementum_anulare
+				Crus_radiale
+				Canistrum_pori
+					Filamentum_canistri
+					Anulus_pori_intimus
+		nucleoplasma en:nucleoplasm,karyoplasm idx-mask:H1.00.01.2.02xxx	
+			Lamina_fibrosa_nuclearis
+				Filamentum_lamini
+			Chromatinum
+				Heterochromatinum
+				Euchromatinum
+				Fibra_chromatini
+					Fibra_nucleosomatis
+					Chromatosoma
+						Nucleosoma
+							Granum_nucleosomatis
+					Ligamen_acidi_desoxyribonuclearis
+				Granulum_interchromatineum
+				Macula_interchromatinea
+				Corpusculum_convolutum
+				Fibrilla_perichromatinea
+				Corpusculum_PML
+				Chromatinum_sexuale
+			Corpusculum_nucleare
+		nucleolus idx-mask:H1.00.01.2.03xxx	
+			Nucleolonema
+				Pars_amorpha
+				Pars_chromatoidea
+					Regio_argyrophililca_nucleoli
+					Nucleolum_operans_region
+				Pars_fibrosa
+					Centrum_fibrillare
+					Pars_fibrillaris_densa
+				Pars_granulosa
+	cytoplasma idx-mask:H1.00.01.3.01xxx ref:<t>
+		ectoplasma ref:<t>
+		endoplasma ref:<t>
+			hyaloplasma ref:<t>
+		cytosol ref:<t>
+		organella_et_inclusiones_cytoplasmicae
+			cytocentrum syn:centrosoma
+				Centriolum
+					Triplomicrotubulus ref:<t>
+				Matrix_centrosomatica syn:Matrix_pericentriolaris
+				Diplosoma
+				Procentriolum
+				Satelles_centrioli
+			mitochondrion
+				Tegumentum_mitochondriale
+				Membrana_mitochondrialis_externa
+				Spatium_intermembranosum
+				Contactus_intermembranosus
+				Membrana_mitochondrialis_interna
+					Crista_mitochondrialis
+					Junctio_cristae
+					Tubulus_mitochondrialis
+					Particula_fungiformis syn:Particula_elementaris
+						Caput
+						Stipes
+						Basis
+				Matrix_mitochondrialis
+					Filamentum_anulare_acidi_desoxyribonuclearis_mitochondriale
+					Ribosoma_mitochondriale syn:Mitoribosoma
+					Filamentum_acidi_ribonuclearis_nuntii
+					Granulum_mitochondriale
+				Inclusio_mitochondrialis
+			reticulum_endoplasmicum
+				_
+					Membrana
+						Facies_externa
+						Facies_interna
+					Lamella
+					Cisterna
+					Sacculus
+					Tubulus
+					Lumen
+				reticulum_endoplasmicum_granulosum
+					Vesicula_e_vestiente_proteino_II_tecta en:Coat_protein_II_coated_vesicle,COP_II_coated_vesicle
+				reticulum_endoplasmicum_non_granulosum
+					Reticulum_sarcoplasmicum
+					Lamella_anularis
+						Porus
+			ribosoma
+				_
+					Pars_magna
+					Pars_parva
+				polyribosoma
+					Filamentum_acidi_ribonuclearis_nuntii
+			complexus_golgiensis syn:apparatus_golgiensis
+				Dictyosoma
+				Reticulum_tubulosacculare_proximale
+					Cis_facies syn:Facies_proximalis
+					Cis_sacculus
+				Sacculus_intermedius
+				Trans_sacculus
+					Trans_facies syn:Facies_distalis
+				Reticulum_tubulosacculare_distale
+				Tubulus_golgiensis
+				Vesicula_golgiensis
+					Vesicula_a_clathrino_tecta
+					Vesicula_a_vestiente_proteino_I_tecta
+			lysosoma
+					
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

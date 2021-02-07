@@ -1,0 +1,32 @@
+systems ru:системы d:"системы органов человека, таксономия составлена на основе русской(ru) и английской(en) статьи википедии, а также Terminologia Gistologica 2008(la)"
+	эндодермальные_системы syn:системы_воспроизводства
+		дыхательная_система en:respiratory_system la:systema_respiratorium
+		пищеварительная_система en:digestive_system,alimentary_system la:systema_digestorium
+			excretory_system ru:выделительная_система
+		мочевыделительная_система en:urinary_system,renal_system la:systema_urinarium
+	мезодермальные_системы syn:системы_поддержки
+		опорно-двигательная_система en:musculoskeletal_system
+			muscular_system ru:мышечная_система
+			skeletal_system ru:скелетная_система,костная_система
+		циркуляторная_система en:circulatory_system
+			сердечно-сосудистая_система en:cardiovascular_system la:systema_cardiovasculare
+			лимфатическая_система en:lymphatic_system la:systema_lymphoideum
+	эктодермальные_системы syn:системы_восприятия
+		нервная_система en:nervous_system ls:systema_nervosum
+			; морфологическое деление
+			systema_nervosum_centrale
+			systema_nervosum_periphericum
+				systema_nervosum_entericum
+			; функциональное деление
+			соматическая_нервная_система
+			автономная_нервная_система syn:вегетативная_нервная_система
+		сенсорная_система en:sensory_nervous_system la:receptores_sensorii_et_organa_sensuum
+		покровная_система en:integumentary_system la:integumentum_commune
+			exocrine_system ru:экзокринная_система?,экзокринные_железы
+	эндокринная_система en:endocrine_system la:systema_endocrinum
+		systema_endocrinum_dispersum
+	имунная_система en:immune_system
+	кроветворная_система en:?
+	репродуктивная_система en:reproductive_system,genital_systems la:systemata_genitalia
+		systema_genitale_feminum
+		systema_genitale_masculinum
