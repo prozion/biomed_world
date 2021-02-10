@@ -1,0 +1,394 @@
+histologia_generalis
+	Parenchyma
+	Stroma
+	Capsula
+	Membrana_basalis
+		Lamina_basalis
+			Lamina_rara syn:Lamina_lucida
+			Lamina_densa
+		Lamina_fibroreticularis
+	Polaritas_cellularis
+	Aplasia
+	Atrophia
+	Hyperplasia
+	Hypertrophia
+	Hypoplasia
+	Involutio
+	Metaplasia
+	cellulae_precursoriae en:stem_cells
+		Cellula_cornealis_precursoria
+		Cellula_endothelialis_precursoria
+		Cellula_epidermalis_precursoria
+		Cellula_gastroinstestinals_precursoria
+		Cellula_haematopoetica_precursoria
+		Cellula_hepatica_precursoria
+		Cellula_mesenchymatica_precursoria
+		Cellula_myogenica_precursoria
+		Cellula_nervosa_precursoria
+		Cellula_spermatogonica_precursoria
+	textus_epithelialis en:epithelial_tissue
+		Epithelium
+		Polarisatio_epithelialis
+		Membrana_basalis
+		epitheliocytus syn:cellula_epithelialis
+			Axis_epitheliocyti
+			Polus_apicalis syn:Apex_cellularis
+			Polus_basalis syn:Basis_cellularis
+			Facies_luminalis
+			Facies_apicalis
+			Facies_lateralis
+			Facies_basalis
+			Facies_basolateralis
+				Spatium_basolaterale
+			Epitheliocytus_ciliatus
+			Epitheliocytus_columnaris
+			Epitheliocytus_cuboideus
+			Epitheliocytus_microvillosus
+			Epitheliocytus_neurosensorius
+			Epitheliocytus_pigmentosus
+			Epitheliocytus_prismaticus
+			Epitheliocytus_pyramidalis
+			Epitheliocytus_secretorius
+				Exocrinocytus
+					Serocytus
+					Mucocytus
+					Seromucocytus
+				Endocrinocytus
+				Polycrinocytus
+			Epitheliocytus_sensorius
+			Epitheliocytus_squamosus
+			Epitheliocytus_stereociliatus
+		epithelium_superficiale en:surface_epithelium
+			Epithelium_simplex_squamosum
+				Endothelium
+					Endothelium_non_vasculare
+					Endothelium_vasculare
+						Cellula_endothelialis_precursoria
+							Endotheliocytus
+							Corpus_multitubulare
+						Endotelium_non_fenestratum syn:Endothelium_continuum
+						Endotelium_fenestratum
+							Endotheliocytus_fenestratus
+							Fenestra_endotheliocyti
+								Diaphragma_fenestrae
+									Nodulus_centralis
+						Endothelium_perforatum
+							Endotheliocytus_perforatus
+						Endothelium_disjunctum
+				Mesothelium
+					Mesiotheliocytus
+			Epithelium_simplex_cuboideum
+			Epithelium_simplex_columnare
+			Epithelium_pseudostratificatum_columnare
+				Epitheliocytus_adluminalis
+				Epitheliocytus_intercalatus
+				Epitheliocytus_basalis
+			Epithelium_stratificatum_squamosum_non_cornificatum
+			Epithelium_stratificatum_cuboideum
+			Epithelium_stratificatum_columnare
+			Urothelium syn:Epithelium_transitionale
+				Stratum_superficiale
+					Urotheliocytus_superficialis syn:Umbellocytus
+						Crusta_urothelialis
+							Granulum_uroplakini
+							Vesicula_adluminalis_urothelialis
+				Stratum_intermedium
+				Stratum_basale
+			Epithelium_ciliatum
+			Epithelium_microvillosum
+				Limbus_microvillosus syn:Limbus_penicillatus,Limbus_striatus
+				Trama_cytoskeletalis_terminalis
+			Epithelium_sensorium
+			Epithelium_germinativum
+				Epithelium_spermatogenicum
+		epithelium_glandulare
+			Glandula
+			Secretio_amphicrina
+			Secretio_apocrina
+			Secretio_autocrina
+			Secretio_endocrina
+			Secretio_exocrina
+			Secretio_holocrina
+			Secretio_intracrina
+			Secretio_merocrina
+			Secretio_neurocrina
+			Secretio_pararina
+			Secretio_polycrina
+			glandula_exocrina
+				Glandula_exocrina_unicellularis
+					Epitheliocytus_caliciformis
+				Glandula_intraepithelialis
+				Glandula_extraepithelialis
+				Glandula_pluricellularis
+					Glandula_simplex
+						Glandula_tubulosa
+							Glandula_tubulosa_simplex
+							Glandula_tubulosa_ramosa
+							Glandula_tubulosa_contorta
+						Glandula_acinosa
+							Glandula_acinosa_simplex
+							Glandula_acinosa_ramosa
+						Glandula_alveolaris
+					Glandula_racemosa
+					Glandula_composita
+						Glandula_tubulosa_composita
+						Glandula_acinosa_composita
+						Glandula_tubuloacinosa_composita
+						Glandula_tubuloalveolaris_composita
+					Glandula_serosa
+					Glandula_mucosa
+					Glandula_seromucosa
+					Glandula_mixta
+					Septum_interlobare
+						Septum_interlobulare
+					Trabecula_glandularis
+					Interstitium_glandulare
+					Lobus_glandularis
+						Lobulus_glandularis
+					Ostium_glandulare
+					Collum_glandulare
+					Corpus_glandulare
+					Fundus_glandularis
+					Portio_terminalis
+						Acinus
+							Cellula_acinosa syn:Acinocytus ru:Ациноцит
+							Cellula_centroacinosa
+							Myoepitheliocytus
+								Myoepitheliocytus_fusiformis
+								Myoepitheliocytus_stellatus
+						Alveolus
+						Tubulus
+							Cellula_tubulosa syn:Tubulocytus
+							Myoepitheliocytus
+						Tubuloacinus
+						Tubuloalveolus
+							Semiluna_serosa
+						Canaliculus_secretorius_intracellularis
+						Canaliculus_secretorius_intercellularis
+						Ductus_secretorius
+						Ductus_intralobularis
+							Ductus_intercalatus
+						Ductus_interlobularis
+						Ductus_interlobaris
+						Ductus_excretorius
+						Ductus_excretorius_principalis
+			glandula_endocrina
+				Glandula_endocrina_unicellularis
+				Glandula_endocrina_multicellularis
+				Chorda_celllaris_endocrina
+				Glandula_endocrina_follicularis
+					Folliculus_glandularis
+				Glandula_amphicrina
+	textus_connectivi_atque_sustinentes
+		cellulae_textuum_connectivorum
+			Fibroblastus
+			Fibrocytus
+			Cellula_reticularis
+			Adipocytus
+			Macrophagocytus
+				Macrophagocytus_sessilis
+				Macrophagocytus_mobilis
+			Mastocytus
+				Mastocytus_mucosalis
+				Mastocytus_perivascularis
+			Myofibroblastus
+			Cellula_pigmentata
+				Chromatophorocytus
+			Melanocytus
+		matrix_extracellularis
+			Substantia_fundamentalis
+			Glycosaminoglycanum
+			Hyaluronanum
+			Proteoglycanum
+			Collagenum
+			Procollagenum
+		fibrae_textuum_connectivorum
+			Fasciculus_collageni
+				Fibra_collageni
+				Fibrilla_collageni
+					Tropocollagenum
+			Fibra_reticularis syn:Fibra_collageni_typi_III
+				Fibrilla_reticularis syn:Fibrilla_collageni_typi_III
+			Fibra_elastica
+				Elastinum
+				Fibrilla_fibrillini
+				Emilinum
+			Fibra_elauninae
+			Fibra_oxytalanae
+			Rete_elasticum
+			Lamina_elastica
+		textus_connectivus_proprius syn:textus_conjunctivus en:connective_tissue_proper
+			Textus_connectivus_laxus
+			Textus_connectivus_compactus
+				Typus_regularis
+					Forma_intexta
+					Forma_parallela
+						Forma_parallela_cum_cursu_unico
+						Forma_parallela_cum_cursibus_multis
+				Typus_irregularis
+			Textus_connectivus_fusocellularis syn:Textus_connectivus_spinocellularis
+			ligamenta
+				Ligamentum_collagenosum
+				Ligamentum_elasticum
+		textus_mucoideus en:mucoid_connective_tissue,gelatinous_connective_tissue
+		textus_reticularis en:reticular_tissue
+			Cellula_reticularis
+			Fibra_reticularis syn:Fibra_collageni_typi_III
+		textus_adiposus en:adipose_tissue
+			Textus_adiposus_albus
+				Adipocytus_albus syn:Adipocytus_uniguttularis
+			Textus_adiposus_fuscus
+				Adipocytus_fuscus syn:Adipocytus_multiguttularis
+		textus_cartilagineus en:cartilage_tissue
+			Chondroblastus
+			Chondrocytus
+			Aggregatio_chondrocytorum syn:Aggregatio_isogenica
+				Aggregatio_axialis
+				Aggregatio_coronaria
+			Chondronum
+			Matrix_cartilaginea
+				Matrix_territorialis
+				Matrix_interterritorialis
+				Vesicula_densa_matricis
+				Condensatio_pericellularis
+				Fibra_collageni
+				Fibra_elastica
+			Lacuna_cartilaginea
+			Cartilago_hyalina
+				Cartilago_hyalina_calcificata
+			Cartilago_fibrosa
+			Cartilago_elastica
+			Perichondrium
+				Stratum_fibrosum
+				Stratum_chondrogenicum
+			chondrohistogenesis en:chondrogenesis
+				Chondroblastus
+		textus_chondroideus en:chondroid_tissue
+			Chondroidocytus
+			Chondroidogenesis
+		textus_osseus en:bone_tissue,osseous_tissue
+			Osteoblastus
+			Osteocytus
+				Processus_osteocyti
+			Osteoclastus
+				Limbus_microplicatus
+			Cellula_vestiens_ossis
+			Matrix_ossea
+				Fibra_collageni
+				Proteinum_non_collagenosum
+				Crystallum_hydroxyapatiti
+			Canalis_ossis
+			Canaliculus_ossis
+			Lacuna_ossis
+				Lacuna_osteocyti
+				Lacuna_erosionis syn:Lacuna_resorptionis
+					Canalis_erosionis
+			Periosteum
+				Stratum_fibrosum
+				Stratum_osteogenicum
+				Fasciculus_collageni_perforans
+			Endosteum
+			textus_osseus_compactus en:compact_bone
+			textus_osseus_lamellaris en:lamellar_membranous_bone
+				Lamella_ossea
+					Lamella_circumferentialis_externa
+					Osteonum_primarium
+					Lamella_circumferentialis_interna
+					Cavitas_resoptionis
+					Linea_cementalis
+					Osteonum_secundarium
+						Stratum_preosseum syn:Osteoideum
+						Linea_calcificationis
+						Lamella_osteoni
+						Canalis_osteoni syn:Canalis_centralis
+						Linea_interruptionis
+						Cellula_vestiens_ossis
+					Lamella_interstitialis
+				Canalis_transversus
+				Canalis_perforans
+				Canalis_nutricius syn:Canalis_nutriens
+			textus_osseus_reticulofibrosus en:woven_bone
+			textus_osseus_fasciculatus en:bundle_bone
+			textus_osseus_spongiosus syn:textus_osseus_trabecularis en:trabecular_bone,cancellous_bone,spongy_bone
+				Trabecula_ossea
+				Lamella_ossea
+			osteogenesis en:osteogenesis
+				Osteoblastus
+				Ossificatio
+				Osteonum
+				Stratum_preosseum syn:Osteoideum
+				Linea_calcificationis
+				Centrum_ossificationis
+					Vesicula_matricalis
+				Crystallum_hydroxyapatiti
+				Trabecula_ossea
+				Osteoclastus
+				Lacuna_erosionis
+					Linea_erosionis syn:Linea_resorptionis
+				Os_membranaceum
+				Os_endochondrale
+			ossificatio_membranacea syn:ossificatio_desmalis en:chondral_ossification,cartilaginous_ossification
+			ossificatio_perichondralis en:perichondral_ossification
+				Perichondrium ref:<t>
+					Stratum_osteogenicum
+						Osteoblastus
+				Anulus_osseus_perichondralis
+				Ossificatio_endochondralis
+				Centrum_ossificationis
+					Centrum_ossificationis_primarium syn:Centrum_ossificationis_diaphysiale
+					Gemma_osteogenica_primaria
+					Cavitas_medullaris_primaria
+					Cartilago_epiphysialis
+						Zona_quiescens
+						Zona_proliferationis
+							Columella_chondrocytorum
+						Zona_hypertrophica
+							Chondrocytus_hypertrophicus
+						Zona_calcificationis
+							Cartilago_calcificata
+								Cavitas_cartilaginis
+								Trabecula_cartilaginea
+						Zona_erosionis
+							Lacuna_erosionis
+							Chondroclastus
+						Zona_ossificationis
+							Textus_osseus_endochondralis
+							Trabecula_ossea_primaria
+							Trabecula_ossea_secundaria
+							Chondrocytus_hypertrophicus
+							Cartilago_calcificata
+	structurae_haematolymphoideae en:haematolymphoid_complex
+		haemocyti
+			erythrocytus syn:Haematia
+				Normocytus
+					Macrocytus
+					Microcytus
+						Anisocytosis
+					Erythrocytus_polychromatophilus
+					Reticulocytus
+						Substantia_reticulofilamentosa
+						Residuum_chromatini
+					Stroma_erythrocyti
+					Spectrum_erythrocyti
+					Strues_erythrocytorum
+			leucocytus en:leucocyte,white_blood_cell
+				Lymphocytus
+				Granulum_azurophilum
+				Lymphocytus_parvus
+				Lymphocytus_B
+				Lymphocytus_K
+				Lymphocytus_T
+				Lymphocytus_medius
+				Lymphocytus_magnus
+			monocytes
+				Granulum_azurophilum
+			granulocytus_neutrophilus syn:neutrophilus,granulocytus_neutrophilus_segmentonuclearis en:neutrophilic_granulocyte,neutrophil,segmented_neutrophilic_granulocyte
+				Granulum_neutrophilum
+				Granulum_azurophilum
+				Chromatinum_sexuale
+				Metamyelocytus_neutrophilus syn:Granulocytus_neutrophilus_juvenalis
+			granulocytus_acidophilus syn:eosinophilus en:eosinophilic_granulocyte,eosinophil
+				
+			
+						
+		

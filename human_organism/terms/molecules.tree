@@ -1,0 +1,4 @@
+molecules
+	macromolecules
+		proteins ref://bio_world/metabolomics/proteins.tree
+	metabolites ref://bio_world/metabolomics/metabolites.tree
