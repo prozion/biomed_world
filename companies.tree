@@ -1,8 +1,11 @@
-companies_med
+companies			
+	usa
+		MAIA_Scientific hq:Geel product:MIAS-2 start:2002
 	russia
-		Инвитро start:1998 hq:Москва url:invitro.ru
-		Гемотест start:2003,2007 hq:Москва url:gemotest.ru
-		KDL start:2003 hq:Москва url:kdl.ru
-		Ситилаб start:2004 hq:Москва url:new.citilab.ru
-		CMD start:2008 hq:Москва url:cmd-online.ru
-		Архимед start:2005 hq:Москва url:arhimedlab.ru
+		Архимед start:2005 hq:Москва url:arhimedlab.ru service:ba
+		Гемотест start:2003,2007 hq:Москва url:gemotest.ru service:ba
+		Инвитро start:1998 hq:Москва url:invitro.ru service:ba
+		Ситилаб start:2004 hq:Москва url:new.citilab.ru service:ba
+		Biocad hq:Санкт_Петербург url:biocad.ru
+		CMD start:2008 hq:Москва url:cmd-online.ru service:ba
+		KDL start:2003 hq:Москва url:kdl.ru service:ba

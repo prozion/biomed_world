@@ -1,0 +1,9 @@
+languages
+	CSV variants:TSV
+	OBO deabbr:"Open Biomedical Ontologies"
+	OWL
+	RDF
+	SKOS
+	Tabtree
+	Turtle abbr:TTL
+	XML variants:HTML,SVG

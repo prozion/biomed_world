@@ -1,0 +1,8 @@
+databases
+	InterPro url:ebi.ac.uk/interpro org:EMBL-EBI d:"protein families, domains and sites"
+	Pass2 url:caps.ncbs.res.in/pass2 org:NCBS_India d:"superfamily alignment database"
+	Pfam url:pfam.xfam.org org:EMBL-EBI d:"protein families"
+	Prosite url:prosite.expasy.org org:SIB d:"protein domains, families, functional sites"
+	Scop deabbr:"Structural_classification_of_Proteins" org:UK_MRC d:"database that provides description of structural and evolutionary relationships between proteins of known structure"
+	Superfamily url:supfam.org org:UCambridge d:"database of structural and functional annotation for all proteins and genomes"
+	

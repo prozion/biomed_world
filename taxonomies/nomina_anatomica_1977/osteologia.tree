@@ -389,7 +389,7 @@ osteologia ru:остеология d:"учение о костях"
 					corpus_mandibulae ru:тело_нижней_челюсти
 						Basis_mandibulae ru:Основание_нижней_челюсти
 						Symphysis_mentalis ru:Подбородочный_симфиз
-						Protuberantia+mentalis ru:Подбородочный_выступ
+						Protuberantia_mentalis ru:Подбородочный_выступ
 							Tuberculum_mentale ru:Подбородочный_бугорок
 						Gnathion ru:Гнатион
 						For_mentale ru:Подбородочное_отверстие

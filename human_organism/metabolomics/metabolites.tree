@@ -1,0 +1,18 @@
+metabolites
+	simple_molecules
+		H+
+		C name:"Carbon"
+		O2 str:O=O
+		H2O str:H-O-H name:"Water"
+		CO2 str:O=C=O
+		HCO3- str:O=2=C-O-H name:"Bicarbonate"
+	energy_currency
+		ATP name:"Adenosine triphosphate"
+		ADP
+		GTP name:"Guanosine triphosphate"
+		GDP
+		NAD+ name:"Nicotinamide adenine dinucleotide"
+		NADH
+		FAD name:"Flavin adenine dinucleotide"
+		FADH
+		Pi name:"Inorganic phosphate"
