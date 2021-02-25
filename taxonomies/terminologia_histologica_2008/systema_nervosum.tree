@@ -1,0 +1,420 @@
+systema_nervosum en:nervous_system
+	pars_centralis syn:systema_nervosum_centrale en:central_nervous_system
+		Cellula_nervosa_precursoria en:Neural_stem_cell
+		Substantia_grisea
+		Substantia_alba
+		Neurofibra_myelinata_centralis
+		Neurofibra_non_myelinata_centralis
+		Claustrum_hematoencephalicum
+		Claustrum_hematoliquorosum
+		Motoneuron syn:Neuron_motorium
+			Motoneuron_α
+			Motoneuron_γ
+			Motoneuron_viscerale
+		Neuron_sensorium_primarium
+		Interneuron syn:Neuron_internuntiale
+		Neuron_commissurale
+		Neuron_non_commissurale
+			Neuron_projectionis
+			Neuron_associationis
+		Neuron_somaticum
+		Neuron_autonomicum
+		Neuron_branchiale syn:Neuron_pharyngeale
+		meninges en:meninges
+			pachymeninx syn:dura_mater en:pachymeninx,dura_mater
+				Textus_connectivus_compactus_irregularis
+				Dura_mater_cranialis syn:Dura_mater_encephali
+					Pars_periostea_durae_matris_cranialis syn:Endocranium
+					Pars_meningea_durae_matris_cranialis
+				Dura_mater_spinalis
+					Saccus_durae_matris_spinalis
+				Lamina_neurothelialis_durae_matris
+			leptomeninx en:leptomeninx
+				arachnoidea_mater en:arachnoid_mater
+					Lamina_neurothelialis_claustri_arachnoidei
+						Spatium_subarachnoideum syn:Spatium_leptomeningeum
+					Arachnoidea_mater_cranialis syn:Arachnoidea_mater_encephali
+						Trabecula_arachnoidea
+							Cellula_trabecularis
+						Protrusio_neurothelialis
+						Villus_arachnoideus
+							Capsula_villi
+							Cupula_apicalis
+								Cellula_arachnoidea_cupularis
+								Stratum_cellularum_arachnoidearum_cupularium
+								Cumulus_cellularum_arachnoidearum_cupularium
+							Collum_villi
+							Centrum_trabeculare_villi
+						Granulatio_arachnoidea
+							Macula_cellularis
+							Colliculus_cellularis
+					Arachnoidea_mater_spinalis
+				pia_mater en:pia_mater
+					Lamina_externa
+					Lamina_interna
+					Spatium_subpiale
+					Pia_mater_cranialis syn:pia_mater_encephali
+					Pia_mater_spinalis
+						Ligamentum_denticulatum
+					Plexus_choroideus
+						Epithelium_choroideum
+							Epitheliocytus_choroideus
+						Cellula_epiplexalis
+						Psammoma en:Inclusion_body
+					Glomus_choroideum
+					Tela_choroidea
+			medulla_spinalis en:spinal_cord
+				Formatio_reticularis
+				Neuron_cornus_anterioris
+					Motoneuron_cornus_anterioris syn:Neuron_motorium_cornus_anterioris
+				Neuron_zonae_intermediae
+				Neuron_cornus_posterioris
+				Interneuron_spinale
+				Neuron_funiculare_spinale
+			encephalon en:brain
+				myelencephalon syn:medulla_oblongata,bulbus en:myelencephalon,medulla_oblongata,bulb 
+				pons en:pons
+				mesencephalon en:mesencephalon,midbrain
+					tectum_mesencephali en:tectum_of_midbrain
+						Colliculus_superior
+						Colliculus_inferior
+							Nucleus_centralis
+							Cortex_dorsalis
+								Stratum_I
+								Stratum_II
+								Stratum_III
+								Stratum_IV
+				cerebellum en:cerebellum
+					Arbor_vitae
+					cortex_cerebelli en:cerebellar_cortex
+						Stratum_granulosum
+							Neuron_fusiforme_horizontale
+							Neuron_stellatum_magnum
+							Neuron_stellatum_parvum
+							Neuron_granulosum
+							Neuron_penicillatum
+							Glomerulus_cerebelli
+								Neurofibra_mucosa
+									Flosculus_neurofibrae_muscosae en:mossy_fibre_rosette
+								Dendritum_neuronis_granulosi
+								Axonum_neuronis_stellati
+						Stratum_purkinjense en:Purkinje_cell_layer
+							Corbis_neurofibrarum
+							Neuron_purkinjense
+						Stratum_moleculare
+							Neuron_stellatum
+								Neuron_stellatum_superficiale
+								Neuron_stellatum_profundum
+							Neuron_corbiforme syn:Neuron_corbiferum
+							Neurofibra_parallela
+							Neurofibra_ascendens
+							Neurofibra_multistratificata
+					astrocytus_cerebelli en:cerebellar_astrocyte
+						Astrocytus_radians_cerebelli
+							Astrocytus_epithelialis_cerebelli
+								Processus_radians_astrocyti_epithelialis_cerebelli
+						Astrocytus_pennatus
+					substantia_alba_cerebelli en:white_substance_of_cerebellum
+						Lamina_alba
+							Neurofibra_ascendens
+							Neurofibra_descendens
+				diencephalon en:diencephalon
+					Corpus_geniculatum_laterale
+						Lamina_1_parahilaris_magnocellularis
+						Lamina_2_magnocellularis
+						Lamina_3_parvocellularis_ventralis
+						Lamina_4_parvocellularis_lata
+						Lamina_5_parvocellularis_angusta
+						Lamina_6_parvocellularis_dorsalis
+					Corpus_geniculatum_mediale
+						Nucleus_medialis
+						Nucleus_ventralis
+						Nucleus_dorsalis
+				telencephalon syn:cerebrum en:telencephalon,cerebrum
+					cortex_cerebri en:cerebral_cortex
+					neuroglia_corticis_cerebri en:cerebral_cortical_neuroglia
+					strata_isocorticis en:layers_of_isocortex
+						Lamina_molecularis syn:Lamina_I
+						Lamina_granularis_externa syn:Lamina_II
+						Lamina_pyramidalis_externa syn:Lamina_III
+						Lamina_granularis_interna syn:Lamina_IV
+						Lamina_pyramidalis_interna syn:Lamina_V
+						Lamina_multiformis syn:Lamina_VI
+					neuron_isocorticis
+						Neuron_projectionis
+							Neuron_pyramidale_parvum
+							Neuron_pyramidale_medium
+							Neuron_pyramidale_magnum
+							Neuron_pyramidale_giganteum
+							Neuron_pyramidale_inversum
+							Neuron_stellatum_spinosum
+							Neuron_stellatum_non_spinosum
+							Neuron_fusiforme
+							Neuron_ovoideum
+						Neuron_associationis
+							Neuron_bipolare
+							Neuron_horizontale
+							Neuron_corbiforme
+							Neuron_candelarium
+							Neuron_neuroglioforme
+							Neuron_racemiforme_bifasciculare
+						Columna_corticalis
+					striae_fibrarum_myelinatarum_in_isocortice en:striae_of_myelinated_fibres_in_isocortex
+						Lamina_tangentialis
+							Sublamina_superficialis
+							Sublamina_intermedia
+							Sublamina_profunda
+						Lamina_dysfibrosa
+						Lamina_suprastriata
+							Sublamina_superficialis
+							Sublamina_intermedia
+						Stria_laminae_pyramidalis_externae
+						Lamina_infrastriata_superficialis
+						Stria_laminae_pyramidalis_internae
+						Lamina_infrastriata
+							Lamina_substriata
+							Lamina_limitans
+						Stria_verticalis
+					cortex_visualis_primarius syn:area_striata en:primary_visual_cortex,striate_cortex
+						Stria_occipitalis
+						Columna_dominantiae_ocularis
+						Columna_orientationis
+						Hypercolumna
+					alllocortex en:allocortex
+						Semicortex
+						Torocortex
+							Schizocortex
+							Holocortex
+								Holocortex_bistratificatus
+								Holocortex_quinquestratificatus
+								Holocortex_septemstratificatus
+					neuron_allocorticis en:neuron_of_allocortex
+						Neuron_corbiforme syn:Neuron_corbiferum en:Basket_cell
+						Neuron_fusiforme en:Spindle_cell
+						Neuron_giganteum en:Giant_cell
+						Neuron_granulare en:Granular_cell
+						Neuron_mitrale en:Mitral_cell
+						Neuron_multiforme en:Polymorphous_nerve_cell
+						Neuron_plumosum en:Tufted_cell
+						Neuron_pyramidale en:Pyramidal_cell
+						Neuron_stellatum en:Stellate_cell
+					bulbus_olfactorius en:olfactory_bulb
+						Cellula_olfactoria
+						Neuron_mitrale
+						Neuron_plumosum
+							Neuron_plumosum_medium
+							Neuron_plumosum_externum
+							Neuron_plumosum_internum
+						Neuron_amacrinum_granulare
+						Neuron_periglomerulare
+						Neuron_breviaxonale
+							Neuron_breviaxonale_superficiale
+							Neuron_breviaxonale_profundum en:Deep_short_axon_cell
+						Stratum_neurofibrosum_externum
+						Stratum_glomerulosum
+							Glomerulus_olfactorius
+						Stratum_plexiforme_externum
+						Stratum_mitrale
+						Stratum_plexiforme_internum
+						Stratum_granulosum
+					tuberculum_olfactorium en:olfactory_tubercle
+						Stratum_moleculare
+						Stratum_densocellulare
+						Stratum_multiforme
+						Insula_cellularis
+					regio_retrobulbaris en:retrobulbar_region
+						Stratum_moleculare
+						Stratum_densocellulare
+						Stratum_multiforme
+					cortex_periamygdaloideus en:peri-amygdaloid_cortex
+						Stratum_moleculare
+						Stratum_densocellulare
+						Stratum_multiforme
+					regiones_periseptalis_et_diagonalis en:periseptal_and_diagonal_regions
+						Stratum_moleculare
+						Stratum_cellulare
+					regio_prepiriformis en:prepiriform_region
+						Stratum_moleculare
+						Stratum_densocellulare
+						Stratum_multiforme
+					regio_peripalaeocorticalis_claustralis en:claustral_peripaleocortical_region
+						Stratum_moleculare
+						Stratum_densocellulare
+						Stratum_dissecans
+						Stratum_multiforme
+					strata_gyri_dentali syn:fascia_dentata en:layers_of_dentate_gyrus
+						Stratum_moleculare
+						Stratum_granulare
+						Stratum_multiforme syn:Hilum_fasciae_dentatae
+					hippocampus_proprius syn:cornu_ammonis en:hippocampus_proper,ammon's_horn
+						Stratum_moleculare
+							Substratum_eumoleculare
+							Substratum_lacunosum
+								Coll	aterales_axonales
+							Substr	atum_radiatum
+							Substratum_lucidum en:Clear_sublayer
+								Neurofibra_muscosa
+						Stratum_pyramidale	
+						Stratum_oriens
+					subiculum en:subiculum
+						Stratum_moleculare
+						Stratum_pyramidale
+						Stratum_multiforme
+						Tractus_perforans
+						Alveus
+						Commissura_fornicis
+							Fibrae_dorsales syn:Psalterium_dorsale
+							Fibrae_ventrales syn:Psalterium_ventrale
+					cortex_entorhinalis en:entorhinal_cortex
+						Stratum_moleculare
+						Stratum_stellare
+						Stratum_pyramidale
+							Substartum_dissecans
+						Stratum_magnocellulare
+							Substartum_dissecans
+						Stratum_parvocellulare
+						Stratum_multiforme
+						Tractus_perforans
+						Tractus_alvearis
+					cortex_presubicularis en:presubicular_cortex
+						Stratum_moleculare
+						Stratum_parvopyramidale_externum
+						Stratum_parvopyramidale_internum
+						Stratum_plexiforme
+						Stratum_pyramidale
+						Stratum_multiforme
+					cortex_retroslenialis en:retrosplenial_cortex
+						Stratum_moleculare
+						Stratum_stellare
+						Stratum_granulare
+						Stratum_plexiforme
+						Stratum_mediopyarmidale
+						Stratum_magnopyarmidale
+						Stratum_multiforme
+	pars_peripherica syn:systema_nervosum_periphericum en:peripheral_nervous_system
+		Nervus
+			Neurofibra_peripherica
+				Neurofibra_myelinata_peripherica
+				Neurofibra_non_myelinata_peripherica
+				Neurofibra_afferens
+				Neurofibra_efferens
+				Neurofibra_autonomica
+					Neurofibra_preganglionica
+					Neurofibra_postganglionica
+			Schwannocytus syn:Neurolemmocytus
+			Plexus_neuralis_autonomicus
+			Endoneurium
+			Perineurium
+				Pars_epitheloidea
+				Pars_fibrosa
+			Epineurium
+				Epineurium_superficiale
+				Epineurium_profundum
+		Ganglion
+			Neuron_periphericum
+			Gliocytus_ganglionaris en:Staellite_cell,Satellite_glial_cell
+			Ganglion_sensorium
+				Neuron_sensorium
+					Neuron_bipolare_periphericum
+					Neuron_pseudounipolare_periphericum
+						Neuron_pseudounipolare_magnum
+						Neuron_pseudounipolare_parvum
+				Capsula
+			Ganglion_autonomicum
+			Neuron_autonomicum_periphericum
+			Neuron_parvum_valde_fluorescens
+			Neuron_multipolare
+				Glomerulus_dendriticus
+				Synapsis_axodendritica
+				Synapsis_axosomatica
+		Synapsis_neuromuscularis syn:Junctio_neuromuscularis
+			Synapsis_neuromuscularis_fusi syn:Junctio_neuromuscularis_fusi
+			Plica_membranae_postsynapticae
+		Junctio_neuroepithelialis syn:Terminatio_neuroepithelialis
+			Junctio_neuroglandularis syn:Terminatio_neuroglandularis
+			Junctio_neurosecretoria syn:Terminatio_neurosecretoria
+	pars_enetrica syn:systema_nervosum_entericum en:enteric_nervous_system
+		Plexus_entericus_ganglionaris en:Enteric_ganglionic_plexus
+			Plexus_nervosus_submucosus_internus
+			Plexus_nervosus_submucosus_externus
+			Plexus_nervosus_myentericus
+		Plexus_entericus_aganglionaris en:Enteric_aganglionic_plexus
+			Plexus_aganglionaris_mucosae
+			Plexus_aganglionaris_muscularis_mucosae
+			Plexus_aganglionaris_extremus
+			Plexus_aganglionaris_internus_muscularis
+			Plexus_aganglionaris_externus_muscularis
+			Plexus_aganglionaris_tunicae_serosae
+		Plexus_entericus_perivascularis
+		Neuron_entericum
+		Neuron_entericum_typi_I
+		Neuron_entericum_typi_II
+		Neuron_entericum_typi_III
+		Neuron_entericum_typi_IV
+		Neuron_entericum_typi_V
+		Neuron_entericum_typi_VI
+		Microneuron_entericum
+		Neuron_enetricum_nec_adrenergicum_neque_cholinergicum syn:Neuron_entercum,NANC en:Nonadrenergic_noncholinergic_neuron,NANC_neuron
+		Cellula_interstitialis_stimulans
+		Glia_enterica
+	receprores_sensorii_et_organa_sensuum en:sensory_receptors_and_sense_organs
+		Terminatio_neuralis_libera
+			Corpusculum_sensorium_non_capsulatum
+				Epitheliocytus_tactilis
+				Meniscus_tactilis syn:Meniscus_dendriticus
+			Corpusculum_sensorium_capsulatum
+				Corpusculum_ovoideum syn:Corpusculum_tactile
+					Schwannocytus_cuneiformis syn:Neurolemmocytus_cuneiformis en:Wedge_shaped_Schwann_cell,Wedge_shaped_neurolemmocyte
+				Corpusculum_lamellosum
+					Capsula_fibrosa
+					Capsula_perineuralis syn:Bulbus_externus
+					Schwannocytus_capsularis syn:Neurolemmocytus_capsularis en:Outer_Schwann_cell
+					Schwannocytus_lamellaris syn:Neurolemmocytus_lamellaris en:Inner_Schwann_cell
+					Spatium_intermedium_bifissum
+						Dendritus_fustiformis
+						Spina_radialis_mediana
+				Corpusculum_sensorium_fusiforme
+			Organum_sensorium_tendinis
+		Fusus_neuromuscularis
+		Epithelium_sensorium
+				Epitheliocytus_neurosensorius
+				Epitheliocytus_sensorius
+				Epitheliocytus_sustenans
+		organum_olfactorium syn:organum_olfactus en:olfactory_organ
+			tunica_mucosa_olfactoria en:olfactory_mucous_membrane
+				Epithelium_olfactrium
+					Cellula_olfactoria_precursoria
+					Epitheliocytus_neurosensorius_olfactorius
+						Dendritum
+						Bulbus_dendriticus
+						Cilium
+						Axonum_olfactorium syn:Neurofibra_olfactoria
+						Filum_olfactorium
+					Epitheliocytus_sustenans
+					Epitheliocytus_basalis
+					Glia_olfactoria
+				Glandula_olfactoria
+		oculus_et_structurae_pertinentes en:eye_and_related_structures
+			Bulbus_oculi
+			Pars_intraocularis_nervi_optici
+			tunica_fibrosa_bulbi en:fibrous_layer_of_bulb
+				sclera en:sclera
+					Lamina_episceralis
+					Substantia_propria_sclerae
+					Lamina_fusca_sclerae
+						Melanocytus
+					Lamina_cribosa_sclerae
+					Anulus_scleralis
+					Sinus_venosus_sclerae
+					Reticulum_trabeculare
+				cornea en:cornea
+					Cellula_cornealis_precursoria
+					Epithelium_anrterius
+					
+			
+				
+							
+				
+		
+		
+			
