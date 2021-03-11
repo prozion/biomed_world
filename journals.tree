@@ -6,6 +6,7 @@ journals section-class:Journal
 	Cell start:1974 freq:104 freq/w:2 publisher:Cell_Press
 	Cell_Systems start:2015 publisher:Cell_Press
 	Current_Opinion_in_Chemical_Biology start:1997 publisher:Elsevier
+	Database start:2009 publisher:Oxford_University_Press
 	Genome_Informatics start:1990 publisher:JSB
 	Genome_Research start:1991 freq:12 publisher:Cold_Spring_Harbor_Laboratory_Press
 	Journal_of_the_Royal_Society_Interface alt-id:RSIF start:2004 publisher:The_Royal_Society url:royalsocietypublishing.org/journal/rsif

@@ -1,0 +1,10 @@
+topical_knowledge_bases
+	Bio.tools url:bio.tools d:"Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences"
+	wiki
+		Bioinformatics url:bioinformatics.org
+		JCBL_wiki url:lipidbank.jp/wiki
+		TOPSAN
+		WikiPathways
+		WikiProfessional end:<t>
+		WikiProteins end:<t>
+	

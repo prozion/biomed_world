@@ -8,10 +8,13 @@ relations
 	founder d:"founder of organization"
 	hq deabbr:"headquarters"
 	ht deabbr:"hometown"
+	old-url d:"old URL, that no longer works" type:url
 	prof deabbr:"professor"
+	req-url d:"URL for sending a request to admins of described resource, so they grant an access to it" type:url
 	start d:"start time of some process"
-	service d:"services of the company" values:ba
+	service d:"services of the company" values:ba,gs
 	syn deabbr:"synonym" d:"synonymical relation"
 	year syn:start d:"year when something emerged, the beginning of something"
 values
 	ba deabbr:"blood analysis"
+	gs deabbr:"genetic sequencing"
