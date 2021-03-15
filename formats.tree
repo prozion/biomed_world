@@ -10,8 +10,10 @@ formats
 	GAF deabbr:"GO Annotation File"
 	GFF dwabbr:"General Feature Format" d:"file format used for describing genes and other features of DNA, RNA and protein sequences"
 	GPML deabbr:"Graphical Pathway Markup Language"
+	Medline d:"tagged field format that displays all of the fields held in a Medline record for a journal reference" ref:formats/medline.tree
 	PDB deabbr:"Protein Data Bank format"
 	RDF deabbr:"Resource Description Framework" d:"The language to describe ontologies"
+	RIS d:"a standardized tag format for enabling citation programs to exchange data" ref:formats/ris.tree
 	SAM deabbr:"Sequence Alignment Map" type:file_format
 	SwissProtID type:db_index used-by:UniProt/SwissProt format:`[A-Z]\d\d\d\d\d`
 	SVS d:"TIFF-based format for tiled medical images"
