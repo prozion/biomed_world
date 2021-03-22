@@ -1,6 +1,6 @@
 medline src-url:nlm.nih.gov/bsd/mms/medlineelements.html 	
 	tags 	
-		AB d:"	Abstract"
+		AB d:"Abstract"
 		CI d:"Copyright Information"
 		AD d:"Affiliation"
 		IRAD d:"Investigator Affiliation"
@@ -10,7 +10,7 @@ medline src-url:nlm.nih.gov/bsd/mms/medlineelements.html
 		FAU d:"Full Author"
 		BTI d:"Book Title"
 		CTI d:"Collection Title"
-		COIS d:"Comments/Corrections   Conflict of Interest Statement"
+		COIS d:"Conflict of Interest Statement"
 		CN d:"Corporate Author"
 		CRDT d:"Create Date"
 		DCOM d:"Date Completed"

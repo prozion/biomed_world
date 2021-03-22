@@ -1,0 +1,46 @@
+mesh_tree
+	anatomy
+	organisms
+		eukaryota
+			animals
+				chordata
+					vertebrates
+						mammals
+							eutheria
+								primates
+									haplorhini
+										catarrhini
+											hoominidae
+												humans
+	diseases
+	chemicals_and_drugs
+	analytical_diagnostic_and_therapeutic_techniques_and_equipment
+		investigative_techniques
+			epidemiologic_methods
+				data_collection
+					vital_statistics
+						Life_Expectancy
+	psychiatry_and_psychology
+	phenomena_and_processes
+		physiological_phenomena
+			growth_and_development
+				Aging narrower:Senescence,Biological_Aging
+					Cognitive_Aging
+					Immunosenescence
+					Longevity related:Life_Span,Lifespan
+	disciplines_and_occupations
+		health_occupations
+			medicine
+				Geriatrics broader:Gerontology related:Senility
+	anthropology_education_sociology_and_social_phenomena
+	technology_industry_and_agriculture
+	humanities
+	information_science
+	named_groups
+	health_care
+		population_characteristics
+			demography
+				vital_statistics
+					Life_Expectancy related:Life_Extension
+	publication_characteristics
+	geographicals
