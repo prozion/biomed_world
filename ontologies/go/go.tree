@@ -1,0 +1,22 @@
+gene_ontology terms-total:21
+	0000001 name:"mitochondrion inheritance" ref:0048308,0048311
+	0000002 name:"mitochondrial genome maintenance" ref:0007005
+	0000003 name:reproduction ref:0008150
+	0000005 name:"obsolete ribosomal chaperone activity" ref:gene_ontology
+	0000006 name:"high-affinity zinc transmembrane transporter activity" ref:0005385
+	0000007 name:"low-affinity zinc ion transmembrane transporter activity" ref:0005385
+	0000008 name:"obsolete thioredoxin" ref:gene_ontology
+	0000009 name:"alpha-1,6-mannosyltransferase activity" ref:0000030
+	0000010 name:"trans-hexaprenyltranstransferase activity" ref:0004659
+	0000011 name:"vacuole inheritance" ref:0007033,0048308
+	0000012 name:"single strand break repair" ref:0006281
+	0000014 name:"single-stranded DNA endodeoxyribonuclease activity" ref:0004520
+	0000015 name:"phosphopyruvate hydratase complex" ref:1902494
+	0000016 name:"lactase activity" ref:0004553
+	0000017 name:"alpha-glucoside transport" ref:0042946
+	0000018 name:"regulation of DNA recombination" ref:0051052
+	0000019 name:"regulation of mitotic recombination" ref:0000018
+	0000020 name:"obsolete negative regulation of recombination within rDNA repeats" ref:gene_ontology
+	0000022 name:"mitotic spindle elongation" ref:0051231,1903047
+	0000023 name:"maltose metabolic process" ref:0005984
+	0000024 name:"maltose biosynthetic process" ref:0000023,0046351

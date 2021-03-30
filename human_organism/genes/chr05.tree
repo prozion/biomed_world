@@ -70,7 +70,7 @@ chr05 src-url:uniprot.org/docs/humchr05.txt genes-total-number:880
 	PLCXD3 pos:5p13.1 swprot-ac:Q63HM9 entry-name:PLCX3_HUMAN mim-code:617016 d:"PI-PLC X domain-containing protein 3"
 	PTGER4 pos:5p13.1 swprot-ac:P35408 entry-name:PE2R4_HUMAN mim-code:601586 d:"Prostaglandin E2 receptor EP4 subtype (PGE receptor EP4 subtype) (PGE2 receptor EP4 subtype) (Prostanoid EP4 receptor) [PTGER2]"
 	NUP155 pos:5p13 swprot-ac:O75694 entry-name:NU155_HUMAN mim-code:606694 d:"Nuclear pore complex protein Nup155 (155 kDa nucleoporin) (Nucleoporin Nup155) [KIAA0791]"
-	IL7R pos:5p13 swprot-ac:P16871 entry-name:IL7RA_HUMAN mim-code:146661 d:"Interleukin-7 receptor subunit alpha precursor (IL-7 receptor subunit alpha) (IL-7R subunit alpha) (IL-7R-alpha) (IL-7RA) (CDw127) (CD127 antigen)"
+	IL7R pos:5p13 swprot-ac:P16871 entry-name:IL7RA_HUMAN mim-code:146661 d:"Interleukin-7 receptor subunit alpha precursor (IL-7 receptor subunit alpha) (IL-7R subunit alpha) (IL-7R-alpha) (IL-7RA) (CDw127) (CD127 antigen)" start:35856875 end:35879603 strain:neg
 	C7 pos:5p13 swprot-ac:P10643 entry-name:CO7_HUMAN mim-code:217070 d:"Complement component C7 precursor"
 	SLC1A3 pos:5p13 swprot-ac:P43003 entry-name:EAA1_HUMAN mim-code:600111 d:"Excitatory amino acid transporter 1 (Sodium-dependent glutamate/aspartate transporter 1) (GLAST-1) (Solute carrier family 1 member 3) [EAAT1] [GLAST] [GLAST1]"
 	PRLR pos:5p13-p14 swprot-ac:P16471 entry-name:PRLR_HUMAN mim-code:176761 d:"Prolactin receptor precursor (PRL-R)"
