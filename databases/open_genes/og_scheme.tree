@@ -1,21 +1,37 @@
-open_genes_db_scheme dc/title:"ontology-like description for Open Gene database scheme"
+open_genes_db_scheme a:Ontology dc/title:"ontology-like description for Open Gene database scheme" 
 	namespaces
-		_ ns:http://ontologies.denis-shirshov.ru/tabtree# spec:https://github.com/prozion/ontologies/blob/d77e9c48de79a288e8c0d6b23f52e5668a932759/tabtree/tabtree.tree
-		_ ns:http://ontologies.denis-shirshov.ru/tabtree-bio-databases#
 		dc ns:http://purl.org/dc/terms/ 
-	Gene +domain:Gene
-		id key:<t>
-		symbol d:"gene abbreviation, as it usually used in other databases like UniProt" example:BLM
-		aliases d:"alternative names for gene or derived proteins" example:BS,RECQL3,RECQ2
-		name example:"Bloom syndrome, RecQ helicase-like"
-		ageMya deabbr:"age millions years ago" d:"how long does this gene exist" range:TimeInterval example:3000-3500
-		agePhylo example:Prokaryota issue:"Procaryota in front-end, Prokaryota in API example" range:Species
-		consPhylo d:"conservative in species" range:Species example:Euteleostomi
-		ncbiid example:641
-		uniprot example:BLM_HUMAN
-		functionalClusters range:FunctionalCluster example:"DNA metabolism","Regulation of transcription/translation"
-	FunctionalCluster +domain:FunctionalCluster
-		id key:<t> range:Integer
-		name range:String
-	Species d:"phylogenetic tree of species" ref:<?>
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree# spec:https://github.com/prozion/ontologies/blob/master/tabtree/tabtree.tree
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree-bio-databases# spec:https://github.com/prozion/biomed_world/blob/master/_meta/tabtree_biodatabases.tree
+	classes
+		Expression
+		FunctionalCluster +domain:FunctionalCluster
+		Gene
+		Species d:"phylogenetic tree of species" ref:<?>
+	properties +section-hierarchy-relation:subproperty-of
+		_gene_property +domain:Gene
+			ageMya deabbr:"age millions years ago" d:"how long does this gene exist" range:TimeInterval example:3000-3500
+			agePhylo example:Prokaryota issue:"Procaryota in front-end, Prokaryota in API example" range:Species
+			aliases d:"alternative names for gene or derived proteins" example:BS,RECQL3,RECQ2
+			commentEvolution
+			commentFunction
+			commentCause
+			commentAging
+			commentReferenceLinks
+			consPhylo d:"conservative in species" range:Species example:Euteleostomi
+			expression range:Expression d:"gene expression in various organs and tissues"
+			functionalClusters range:FunctionalCluster example:"DNA metabolism","Regulation of transcription/translation"
+			id key:<t> range:Integer example:68
+			name example:"Bloom syndrome, RecQ helicase-like"
+			ncbiid example:641
+			rating
+			symbol d:"gene abbreviation, as it usually used in other databases like UniProt" example:BLM
+			uniprot example:BLM_HUMAN
+		_functional_cluster_property +domain:FunctionalCluster +ns-prefix:fc_
+			id key:<t> range:Integer
+			name range:OGTerm
+		_expression_property +domain:Expression +ns-prefix:ep_
+			name key:<t> range:Organ,Tissue
+			exp_rpkm range:Float
+		
 	

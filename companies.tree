@@ -1,31 +1,52 @@
 companies
-		Архимед start:2005 hq:Москва url:arhimedlab.ru service:ba
-		Гемотест start:2003,2007 hq:Москва url:gemotest.ru service:ba
-		ДНКОМ
-		Инвитро start:1998 hq:Москва url:invitro.ru service:ba
-		Ситилаб start:2004 hq:Москва url:new.citilab.ru service:ba
-		23andMe service:gs
-		AncestryDNA service:gs
-		Biocad hq:Санкт_Петербург url:biocad.ru
-		CMD start:2008 hq:Москва url:cmd-online.ru service:ba
-		Color_Genomics service:gs
-		Complete_Genomics service:gs
-		Dante_Labs service:gs
-		Family_Tree_DNA service:gs
-		Gencove service:gs
-		Genomelink service:gs
-		Genos_Exome service:gs
-		Haplogroups service:gs
-		Helix service:gs
-		Illumina url:illumina.com service:gs
-		KDL start:2003 hq:Москва url:kdl.ru service:ba
-		Mayo_GeneGuide service:gs
-		Microbiome service:gs
-		MorphoSys
-		Natera_Panorama_V3 service:gs
-		Novartis
-		Nebula_Genomics service:gs
-		NIPT service:gs
-		Raw_Genotypes service:gs
-		Veritas_Genetics service:gs
-		X-Ray
+	Архимед start:2005 hq:Москва url:arhimedlab.ru service:ba
+	Гемотест start:2003,2007 hq:Москва url:gemotest.ru service:ba
+	ДНКОМ
+	Инвитро start:1998 hq:Москва url:invitro.ru service:ba
+	Ситилаб start:2004 hq:Москва url:new.citilab.ru service:ba
+	AbbVie start:2013 hq:North_Chicago ol:big_pharma nasdaq:ABBV
+	Adaptive_Biotechnologies ol:weak_biotech
+	Amgen ol:strong_biotech
+	AncestryDNA service:gs
+	Atara_Biotherapeutics ol:believe_in_leaders
+	Biocad hq:Санкт_Петербург url:biocad.ru
+	Cassava_Sciences ol:Altzheimer
+	Celularity start:2016 ceo:Robert_Hariri purchased-tech-from:Celgene_Corporation,Sorrento_Therapeutics,United_Theraupeutics,Human_Longevity
+	CMD start:2008 hq:Москва url:cmd-online.ru service:ba
+	Color_Genomics service:gs
+	Complete_Genomics service:gs
+	Dante_Labs service:gs
+	DermTech_Inc ol:believe_in_technology
+	Dicerna url:dicerna.com news-url:investors.dicerna.com/press-releases ol:believe_in_technology
+	Exelixis ol:strong_biotech
+	Family_Tree_DNA service:gs
+	Gencove service:gs
+	Genomelink service:gs
+	Genos_Exome service:gs
+	GSK deabbr:GlaxoSmithKline
+	G1_Therapeutics ol:believe_in_leaders
+	Haplogroups service:gs
+	Helix service:gs
+	Illumina url:illumina.com service:gs
+	KDL start:2003 hq:Москва url:kdl.ru service:ba
+	Kiniksa_Parmaceuticals ol:weak_biotech nasdaq:KNSA
+	Ligand_Pharmaceuticals ol:strong_biotech
+	Mayo_GeneGuide service:gs
+	Microbiome service:gs
+	MorphoSys
+	Natera_Panorama_V3 service:gs
+	Nebula_Genomics service:gs
+	NIPT service:gs
+	Novartis
+	Oramed_Pharmaceuticals hq:Jerusalem
+	Pfizer ol:big_pharma nasdaq:PFE
+	Quanterix_Corporation hq:Billerica nasdaq:QTRX
+	Raw_Genotypes service:gs
+	Regeneron ol:strong_biotech
+	Sangamo_Therapeutics
+	Takeda_Pharmaceuticals ol:big_pharma nasdaq:TAK
+	Transmedics_Group_Inc ol:believe_in_technology
+	Trillium_Therapeutics ol:believe_in_technology market-cap:1.32B nasdaq:TRIL
+	Veritas_Genetics service:gs
+	X-Ray
+	23andMe service:gs

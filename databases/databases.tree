@@ -41,6 +41,7 @@ databases
 	ENCODE url:encodeproject.org d:"genomic and transcriptomic annotations"
 	Ensembl url:ensembl.org d:"automatic annotation databases for human and other genomes"
 	Entrez url:ncbi.nlm.nih.gov/search/ d:"molecular biology database system that provides integrated access to nucleotide and protein sequence data, gene-centered and genomic mapping information, 3D structure data, PubMed MEDLINE, and more"
+	Entrez_Gene used-by:Open_Genes
 	EPD deabbr:"Eukaryotic Promoter Database" url:epd.epfl.ch d:"database of eukaryotic RNA polymerase II promoters with experimentally defined transcription start sites"
 	Europe_PMC url:europepmc.org d:"repository, providing access to worldwide life sciences articles, books, patents and clinical guidelines"
 	ExoCarta url:exocarta.org d:"manually curated database of exosomal proteins, RNA and lipids"
@@ -49,7 +50,7 @@ databases
 	ExRNA_Atlas url:exrna-atlas.org d:"repository of small RNA-seq and qPCR-derived exRNA profiles from human and mouse biofluids"
 	FINDbase deabbr:"Frequency of INherited Disorders" url:findbase.org d:"database of frequencies of causative genetic variations worldwide" 
 	GEO deabbr:"Gene Expression Omnibus" url:ncbi.nlm.nih.gov/geo d:"functional genomics data repository with expression profiles etc."
-	GenAge url:genomics.senescence.info/genes d:"database of aging-related genes"
+	GenAge url:genomics.senescence.info/genes d:"database of aging-related genes" used-by:Open_Genes
 	GenBank url:ncbi.nlm.nih.gov d:"annotated collection of all publicly available nucleotide sequences and their protein translations" ru:"аннотированные коллекции всех публично доступных нуклеотидных последовательностей и их протеиновых транскриптов"
 	GeneWiki url:en.wikipedia.org/wiki/Gene_Wiki d:"project within Wikipedia that aims to describe the relationships and functions of all human genes"
 	GigaDB url:gigadb.org d:"disciplinary repository with the aim of ensuring long-term access to massive multidimensional datasets from life science and biomedical science studies"
